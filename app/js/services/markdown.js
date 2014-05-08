@@ -35,7 +35,7 @@ angular.module('jlApp').factory('Markdown', function($state) {
         }
 
         renderer.table = function(header, body) {
-            return '<div class="table-responsive">\n<table class="table">\n'
+            return '<div class="table-responsive">\n<table class="table table-bordered">\n'
                 + '<thead>\n'
                 + header
                 + '</thead>\n'

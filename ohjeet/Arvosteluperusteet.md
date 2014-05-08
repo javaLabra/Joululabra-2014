@@ -35,5 +35,7 @@
 **Maksimipisteet: 60**
 * Katselmointi +0-2p
 
-| Pisteet | 30 | 35 | 40 | 45 | 50 |
-| Arvosana | 1 | 2 | 3 | 4 | 5 |
+
+| Pisteet  | 30  | 35  | 40  | 45  | 50  |
+| -------- | --- | --- | --- | --- | --- |
+| Arvosana | 1   | 2   | 3   | 4   | 5   |
