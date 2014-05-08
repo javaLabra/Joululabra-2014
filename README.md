@@ -27,6 +27,10 @@ Sähköpostit etunimi.sukunimi@helsinki.fi.
 
 ### Aikataulu
 
+| ma | ti | ke | to | pe |
+| -- | -- | -- | -- | -- |
+|    |    |    |    |    |
+
 ### Palaute työstäsi
 
 * Saat palautetta projektisi edistymisestä labtoolin kautta [http://tktl-labtool.herokuapp.com/mypage](http://tktl-labtool.herokuapp.com/mypage)
