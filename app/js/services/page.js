@@ -2,8 +2,6 @@ angular.module('jlApp').factory('Page', function($http, Markdown) {
     var pages = [];
     var crawled = {};
 
-    var URIToCrawl = [URI('README.md')];
-
     function crawlAll(uris, relativeURI) {
         uris.forEach(function(link) {
             link = link.absoluteTo(relativeURI);
@@ -26,6 +24,7 @@ angular.module('jlApp').factory('Page', function($http, Markdown) {
         });
     }
 
+    var URIToCrawl = [URI('README.md')];
     crawlAll(URIToCrawl, URIToCrawl[0]);
 
     return {

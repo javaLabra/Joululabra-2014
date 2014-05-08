@@ -28,7 +28,7 @@ Sähköpostit etunimi.sukunimi@helsinki.fi.
 ### Aikataulu
 
 | ma | ti | ke | to | pe |
-| -- | -- | -- | -- | -- |
+| --- | --- | --- | --- | --- |
 |    |    |    |    |    |
 
 ### Palaute työstäsi
