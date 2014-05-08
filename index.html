@@ -29,7 +29,7 @@
                     </div>
                     <div class="col-xs-3">
                         <ul class="nav nav-pills nav-stacked">
-                            <li ng-repeat="page in pages"><a ui-sref="page({page: page.href})">{{page.href|filename}}</a></li>
+                            <li ng-repeat="page in pages" ng-class="{active: isActive(page.href)}"><a ui-sref="page({page: page.href})">{{page.href|filename}}</a></li>
                         </ul>
                     </div>
                 </div>
