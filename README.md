@@ -13,10 +13,8 @@
 * [JavaDoc](ohjeet/JavaDoc.md)
 
 **Ohjaajat:**
-* Heikki Haapala (Absor)
-* Mikko Kumara (kumikumi)
-
-Sähköpostit etunimi.sukunimi@helsinki.fi.
+* Heikki Haapala (Absor) heikki.haapala at helsinki.fi
+* Mikko Kumara (kumikumi) kumikumi at cs.helsinki.fi
 
 **Kurssin IRC-kanava**: 
 \#Javalabra2014 @ IRCnet
