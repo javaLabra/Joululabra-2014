@@ -13,8 +13,8 @@
 * [JavaDoc](ohjeet/JavaDoc.md)
 
 **Ohjaajat:**
-* Heikki Haapala
-* Mikko Kumara
+* Heikki Haapala (Absor)
+* Mikko Kumara (kumikumi)
 
 Sähköpostit etunimi.sukunimi@helsinki.fi.
 
