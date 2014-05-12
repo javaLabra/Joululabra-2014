@@ -23,7 +23,7 @@
 
 ### Uutisia
 
-
+* **(12.5.)** Pajaa ei pidetä torstaina 29.5. (Helatorstai). Korvaava paja on keskiviikkona 28.5. klo. 14-16.
 * **(12.5.)** Aloitusluennon [kalvot](kalvot/aloitusluento.md).
 * **(12.5.)** Pajat ti ja to klo. 14-16 luokassa B221.
 * Pakollinen aloitusluento 12.5. klo 14.15 alkaen.
