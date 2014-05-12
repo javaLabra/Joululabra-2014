@@ -1,15 +1,15 @@
 % Ohjelmoinnin harjoitustyö a.k.a. Javalabra
-% Lauri Kangassalo; Emmi Otava
-% 11.3.2014
+% Heikki Haapala, Mikko Kumara
+% 12.5.2014
 
 # Ohjaajat
 
 - Ohjaajat
-    - Lauri Kangassalo -- **ransum**
-	 - Emmi Otava -- **Emiri**
-- Yhteyttä sähköpostilla tai irkissä; etunimi.sukunimi@helsinki.fi
+    - Heikki Haapala -- **Absor** -- etunimi.sukunimi@helsinki.fi
+    - Mikko Kumara -- **kumikumi** -- kumikumi at cs.helsinki.fi
+- Yhteyttä sähköpostilla tai irkissä
 - Irkkikanava #javalabra2014 @ IRCnet
-- Kurssisivu <https://github.com/javaLabra/Javalabra2014-4/README.md>
+- Kurssisivu <http://javalabra.github.io/Javalabra2014-5>
 
 # Mistä kyse?
 
@@ -28,7 +28,6 @@
 - Tule juttelemaan, jos:
     - Olet käynyt kurssit, mutta olet esimerkiksi ollut poissa tentin aikana
     - Mikä tahansa muu puute esitietovaatimuksiin liittyen
-- Voit suorittaa Javalabran samaan aikaan nyt käynnissä olevan OTM:n kanssa
 
 # Kurssin sisältö
 
@@ -51,7 +50,7 @@
     - Fysiikkasimulaattori
     - Lisää esimerkkiaiheita kurssisivulla
 - Pelit suosittuja, reaaliaikaiset pelit vähän haasteellisempia mutta toteutettavissa
-- Valitse ennen kaikkea jokin itseäsi kiinnostava aihe!
+- **Valitse ennen kaikkea jokin itseäsi kiinnostava aihe!**
 
 # Kurssin sisältö
 
@@ -82,15 +81,15 @@
 
 - Kurssin aikana tarjolla **ohjausta** eli pajaa joka viikko
     - Alustava viikoittainen aikataulu:
-    	- **ke 16-18**
+    	- **ti 14-16**
     	- **to 14-16**
     - Luokassa B221 (kakkoskerroksen pajaluokka)
     - Vapaaehtoista
-    - Paras väylä saada apua ja palautetta ohjaajilta
+    - **Paras väylä saada apua ja palautetta ohjaajilta**
 
 # Kurssin kulku
 
-- Viikolla 5 **koodikatselmointi**
+- Viikolla 3 ja 5 **koodikatselmointi**
     - Jokainen opiskelija saa toisen opiskelijan projektin katselmoitavaksi
     - Opiskelijat kirjoittavat palautetta toisen projektista
     - Tarkoitus oppia lukemaan ja ymmärtämään toisten koodia
@@ -117,6 +116,6 @@
 
 - **Tervetuloa kurssille!**
 - Muistakaa -- ensimmäinen deadline tämän viikon torstaina klo 23:59
-- Kaikki tarvittava löytyy kurssisivulta: <https://github.com/javaLabra/Javalabra2014-4/README.md>
+- Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Javalabra2014-5>
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tai pyytämään apua ensimmäisen deadlinen tai muissa asioissa
