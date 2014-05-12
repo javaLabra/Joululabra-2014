@@ -1,6 +1,6 @@
 ﻿# Koodikatselmointi
 
-Koodikatselmointi on osa Ohjelmoinnin harjoitustyötä. Katselmoinnista voi saada maksimissaan 2.5 lisäpistettä per kerta.
+Koodikatselmointi on osa Ohjelmoinnin harjoitustyötä. Katselmoinnista voi saada maksimissaan 2,5 pistettä per kerta.
 
 Tämän katselmoinnin perimmäinen tarkoitus on oppia hahmottamaan toisen henkilön kirjoittamaa koodia ja kokonaista ohjelmointiprojektia. Toisten koodia luetaan kursseilla toistaiseksi valitettavan vähän, vaikka sujuva koodinlukutaito on välttämätön taito ohjelmoijan työssä. Hyvin suoritettu katselmointi on tehokas tapa havaita ongelmakohtia ja korjata virheitä mahdollisimman varhaisessa vaiheessa ohjelmointiprojektia.
 
