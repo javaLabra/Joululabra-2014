@@ -70,7 +70,7 @@
 # Kurssin kulku
 
 - Jokaisen viikon torstaina **deadline** kello 23:59
-    - Deadlinestä annetaan 0-3 pistettä kunkin deadlinen tehtävien mukaisesti
+    - Deadlinestä annetaan 0-2 pistettä kunkin deadlinen tehtävien mukaisesti
     - Ensimmäinen deadline **tämän viikon torstaina!**
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia
