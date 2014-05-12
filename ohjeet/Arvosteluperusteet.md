@@ -1,8 +1,8 @@
 ﻿# Arvosteluperusteet
 
-### Aikataulun noudattaminen (15 pistettä)
+### Aikataulun noudattaminen (10 pistettä)
 
-* Max 3 pistettä per deadline I-V ks. [Tehtävät ja palautus](Tehtävät-ja-palautus.md)
+* Max 2 pistettä per deadline I-V ks. [Tehtävät ja palautus](Tehtävät-ja-palautus.md)
 
 ### Dokumentaatio (10 pistettä)
 
@@ -32,8 +32,14 @@
 * Koodin selkeys ja luettavuus, muuttujien nimeäminen
 * Oliorakenteen ja ohjelman selkeys
 
+### Katselmointi (5 pistettä)
+
+* Kaksi katselmointikertaa
+* Max 2.5p per katselmointikierros
+
+
 **Maksimipisteet: 60**
-* Katselmointi +0-2p / katselmointikierros
+
 
 
 | Pisteet  | 30  | 35  | 40  | 45  | 50  |
