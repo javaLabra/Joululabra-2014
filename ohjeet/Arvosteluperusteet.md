@@ -36,6 +36,7 @@
 
 * Kaksi katselmointikertaa
 * Max 2.5p per katselmointikierros
+* 5-10 laadukasta rakentavaa palautekommenttia riittää 2.5 pisteeseen. 
 
 
 **Maksimipisteet: 60**
