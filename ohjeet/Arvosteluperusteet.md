@@ -33,7 +33,7 @@
 * Oliorakenteen ja ohjelman selkeys
 
 **Maksimipisteet: 60**
-* Katselmointi +0-2p
+* Katselmointi +0-2p / katselmointikierros
 
 
 | Pisteet  | 30  | 35  | 40  | 45  | 50  |
