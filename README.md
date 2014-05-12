@@ -23,6 +23,8 @@
 
 ### Uutisia
 
+* Aloitusluennon [kalvot](kalvot/aloitusluento.md).
+* Pajat ti ja to klo. 14-16 luokassa B221.
 * Paja-ajat tulevat maanantain aikana näkyviin kurssisivulle.
 * Pakollinen aloitusluento 12.5. klo 14.15 alkaen.
 
@@ -39,7 +41,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10-12 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
 | 12-14 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-| 14-16 |  Luento (vain 12.5.)  |  -  |  -  |  -  |  -  |  -  |  -  |
+| 14-16 |  -  |  PAJA B221  |  -  |  PAJA B221  |  -  |  -  |  -  |
 | 16-18 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
 | 16-20 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-| 23:59 |  -  |  -  |  -  |  Palautus  |  -  |  -  |  Katselmointi (vain 1.6.)  |
+| 23:59 |  -  |  -  |  -  |  Palautus  |  -  |  -  |  Katselmointi (vain 1.6. ja 15.6.)  |
