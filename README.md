@@ -23,6 +23,9 @@
 
 ### Uutisia
 
+* Paja-ajat tulevat maanantain aikana näkyviin kurssisivulle.
+* Pakollinen aloitusluento 12.5. klo 14.15 alkaen.
+
 ### Palaute työstäsi
 
 * Saat palautetta projektisi edistymisestä labtoolin kautta [http://tktl-labtool.herokuapp.com/mypage](http://tktl-labtool.herokuapp.com/mypage)
