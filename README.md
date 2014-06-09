@@ -23,6 +23,7 @@
 
 ### Uutisia
 
+* **(9.6.)** Demo-ajat tulevat olemaan ensi viikon alussa ma ja ti. Ensi viikolla ei enää pajaa ole, joten jos tarvitset apua ja/tai palautetta tule demo-aikojen jälkeen keskustelemaan kanssamme. Demot ovat pakollinen osa suoritusta. Lopulliset demo-ajat varmistuvat viimeistään huomenna.
 * **(12.5.)** Pajaa ei pidetä torstaina 29.5. (Helatorstai). Korvaava paja on keskiviikkona 28.5. klo. 14-16.
 * **(12.5.)** Aloitusluennon [kalvot](kalvot/aloitusluento.md).
 * **(12.5.)** Pajat ti ja to klo. 14-16 luokassa B221. Pajat alkavat heti 13.5.
@@ -41,7 +42,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10-12 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
 | 12-14 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-| 14-16 |  -  |  PAJA B221  |  PAJA B221 **(VAIN 28.5.)**  |  PAJA B221 **(EI 29.5.)**  |  -  |  -  |  -  |
-| 16-18 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+| 14-16 |  -  |  PAJA B221  |  DEMO 17.6. (alustava)  |  PAJA B221 |  -  |  -  |  -  |
+| 16-18 |  DEMO 16.6. (alustava)  |  -  |  -  |  -  |  -  |  -  |  -  |
 | 16-20 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
 | 23:59 |  -  |  -  |  -  |  Palautus  |  -  |  -  |  Katselmointi (vain 1.6. ja 15.6.)  |
