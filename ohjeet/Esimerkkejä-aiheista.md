@@ -41,7 +41,6 @@ Oman aiheen ei ole pakko olla allaolevasta listasta. Listassa on kuitenkin erila
   * Yksinkertainen roolipeli tai luolastoseikkailu
   * Tekstiseikkailu (kuvilla höystettynä?)
   * Muistipeli
-  * Ristinolla
 
 * Korttipelit
   * En Garde
