@@ -1,7 +1,7 @@
 ﻿# Deadline 6, lopullinen palautus
 
 ### JavaDoc
-* Kaikki luokat, attribuutit, julkiset ja privaatit metodit on dokumentoitu
+* Kaikki luokat, attribuutit ja julkiset metodit on dokumentoitu
 * Javadocia **ei** tarvitse kirjoittaa...
   * Testeille
   * @Override -metodeille
