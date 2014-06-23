@@ -40,33 +40,33 @@ Käytä kaikessa dokumentoinnissa omaa harkintakykyäsi pituuden ja laajuuden ka
 * Merkitty kaikki oleelliset luokat, osallistumisrajoitteet ja yhteyksien suunnat
 * Käyttöliittymän voi kuitata yhdellä luokalla, tärkeintä on käyttöliittyymän suhde muuhun koodiin
 * **Ei** tarvitse merkitä attribuutteja tai metodeja - ne löytyvät JavaDocista
-* .jpg, .png tai .pdf
+* .jpg, .png
 
 **Sekvenssikaaviot**
 * 3-5 sekvenssikaaviota tärkeimmistä toiminnallisuuksista
 * Tärkeää sekvenssikaavioiden oikeellisuus ja selkeys
-* .jpg, .png tai .pdf
+* .jpg, .png
 
 **Aihemäärittely**
 * Selkeä parin kappaleen selitys ohjelman sisällöstä
 * Lueteltu ohjelman käyttäjät
 * ...sekä käyttäjien toiminnat
 * Kelpaa myös käyttötapauskaaviona
-* .txt tai .pdf
+* .md
 
 **Ohjelman rakenteen kuvaus**
 * Luokkakaaviota selitetty sanallisesti hieman auki
 * Vapaamuotoinen muutaman tekstikappaleen kuvaus
-* .txt tai .pdf
+* .md
 
 **Käyttöohjeet**
 * Ajattele ihmistä, joka ei ole koskaan käyttänyt ohjelmaasi
 * Jos ohjelma selittää itse itsensä, riittää suppeat käyttöohjeet tai toisinaan pelkkä käynnistysohje
-* .txt tai .pdf
+* .md
 
 **Tuntikirjanpito**
 * Merkitse aina vähintään päivä, käyttämäsi aika ja ajankäytön kohde
-* .txt tai .pdf
+* .md
 
 **Testausdokumentaatio**
 * (VAPAAEHTOINEN)
