@@ -82,10 +82,10 @@ Käytä kaikessa dokumentoinnissa omaa harkintakykyäsi pituuden ja laajuuden ka
   * projekti (Netbeansin projektihakemisto)
   * javadoc (Generoitu dokumentaatio)
   * dokumentointi
-    * aiheenKuvausJaRakenne.pdf
-    * testausdokumentti.pdf
-    * käyttöohjeet.pdf
-    * tuntikirjanpito.txt
+    * aiheenKuvausJaRakenne.md
+    * testausdokumentti.md
+    * käyttöohjeet.md
+    * tuntikirjanpito.md
     * luokka- ja sekvenssikaaviot
 
 ### Lopputulos:
