@@ -73,7 +73,7 @@ Käytä kaikessa dokumentoinnissa omaa harkintakykyäsi pituuden ja laajuuden ka
 * Vapaamuotoinen selitys siitä, miten ohjelmaansa on testannut automaattisella testauksella ja käsin
 * Hyvä muoto voi olla esimerkiksi taulukko tai muutama tekstikappale
 * Testausdokumentaatio on luonnollisin sijainti bugihavainnoille
-* .txt tai .pdf
+* .md
 
 ### Kansiorakenne:
 
