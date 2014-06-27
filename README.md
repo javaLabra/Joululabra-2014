@@ -13,7 +13,7 @@
 * [JavaDoc](ohjeet/JavaDoc.md)
 
 **Ohjaajat:**
-* Heikki Haapala (Absor) heikki.haapala at helsinki.fi
+* Nikke Kostiainen (NikG) nikke.kostiainen at helsinki.fi
 * Mikko Kumara (kumikumi) kumikumi at cs.helsinki.fi
 
 **Kurssin IRC-kanava**: 
