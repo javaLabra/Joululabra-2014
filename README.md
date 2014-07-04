@@ -29,7 +29,6 @@
 
 * Saat palautetta projektisi edistymisestä labtoolin kautta [http://tktl-labtool.herokuapp.com/mypage](http://tktl-labtool.herokuapp.com/mypage)
 * Ohjauksissa **on hyvä käydä** viikottain keskustelemassa edistymisestä ja kuulemassa ohjaajien palautetta
-* Palautehetkiin ei ole ajanvarausta
 
 ### Viikkoaikataulu
 
