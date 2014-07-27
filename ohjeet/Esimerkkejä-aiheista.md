@@ -22,6 +22,8 @@
   * Grafiikka
   * Tietoturva
   * Tehokkuus
+  
+* Huomaathan myös, että aiheet, joissa pääpaino on tiedon käsittelemisessä ja varastoimisessa (esimerkiksi reseptivihko, muistilista, kuvagalleria) saattavat sopia paremmin Tietokantasovellus-kurssille.
 
 ### Esimerkkejä aiheista
 
