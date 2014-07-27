@@ -13,25 +13,25 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Käy tasaisin ajoin keskustelemassa edistymisestäsi, saat samalla palautteen!
 * **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
 
-### Deadline I, torstai 15.5.
+### Deadline I, torstai 31.7.
 * [Deadlinen 1 vaatimukset](Deadline-1.md)
 
-### Deadline II, torstai 22.5.
+### Deadline II, torstai 7.8.
 * [Deadlinen 2 vaatimukset](Deadline-2.md)
 
-### Deadline III, torstai 29.5.
+### Deadline III, torstai 14.8.
 * [Deadlinen 3 vaatimukset](Deadline-3.md)
 
-### Deadline Katselmointi I, sunnuntai 1.6.
+### Deadline Katselmointi I, sunnuntai 17.8.
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
-### Deadline IV, torstai 5.6.
+### Deadline IV, torstai 21.8.
 * [Deadlinen 4 vaatimukset](Deadline-4.md)
 
-### Deadline V, torstai 12.6.
+### Deadline V, torstai 28.8.
 * [Deadlinen 5 vaatimukset](Deadline-5.md)
 
-### Deadline Katselmointi II, sunnuntai 15.6.
+### Deadline Katselmointi II, sunnuntai 31.8.
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
 ### Demot
@@ -43,7 +43,7 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Testaa, että ohjelmasi toimii laitoksen koneilla ennen demoa. Demokoneelle on ladattu kaikkien kurssilaisten GitHub-repositoriot hieman ennen demotilaisuuden alkua. Voit vaihtoehtoisesti tuoda oman läppärisi ja demota siltä.
 * Tarkempi aikataulu ilmoitetaan myöhemmin.
 
-### Deadline VI, palautus, torstai 19.6.
+### Deadline VI, palautus, torstai 4.8.
 
 * [Lopullisen palautuksen vaatimukset](Deadline-6-lopullinen-palautus.md)
 * [Muistilista lopullista palautusta varten](Muistilista.md)
