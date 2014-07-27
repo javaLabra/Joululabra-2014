@@ -33,6 +33,9 @@ Oman aiheen ei ole pakko olla allaolevasta listasta. Listassa on kuitenkin erila
   * Tetris
   * Pong
   * Pacman
+  * Tower Defence
+  * Asteroids
+  * Space Invaders
 
 * Vuoropohjaiset pelit
   * Shakki
@@ -43,6 +46,7 @@ Oman aiheen ei ole pakko olla allaolevasta listasta. Listassa on kuitenkin erila
   * Yksinkertainen roolipeli tai luolastoseikkailu
   * Tekstiseikkailu (kuvilla höystettynä?)
   * Muistipeli
+  * Ristinolla (mielivaltaisen kokoisella ruudukolla?)
 
 * Korttipelit
   * En Garde
@@ -51,13 +55,17 @@ Oman aiheen ei ole pakko olla allaolevasta listasta. Listassa on kuitenkin erila
 
 * Hyötyohjelmat
   * Aritmetiikan harjoittelua
+  * Tehtävägeneraattori, joka antaa käyttäjälle tehtävän sekä mallivastauksen (esim. matematiikkaa, fysiikkaa, kemiaa, ...)
   * Opintojen seurantajärjestelmä
   * Aiheenarpoja, jotta seuraavilla olisi helpompaa
+  * Tekstieditori ("Notepad-klooni") 
+  * Drinkkikone, joka kertoo käyttäjälle mitä drinkkejä baarikaapin sisällöstä saa tehtyä
+  * Laskin, funktiolaskin, graafinen laskin
 
 * Omaan tieteenalaan, sivuaineeseen tai harrastukseen liittyvät hyötyohjelmat
   * Yksinkertainen fysiikkasimulaattori
   * DNA-ketjujen tutkija 
   * Keräilykorttien hallintajärjestelmä
-  * Olutmuistio
+  * Sudoku-ratkaisin
 
 Voit katsoa myös [vanhat esimerkkiaiheet](https://www.cs.helsinki.fi/node/59273), jotka tosin ovat suurimmaksi osaksi samoja.
