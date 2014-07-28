@@ -14,7 +14,7 @@ Git on laajalti käytetty versionhallinnan työkalu, jota tarvitaan muunmuassa h
 
 **ÄLÄ** käytä Netbeansin tarjoamaa Git-lisäosaa **ÄLÄKÄ** graafisia ohjelmia. Tähän asti kaikki kurssilla päivän koodaustyönsä menettäneiden ongelmat ovat johtuneet näistä. Käytä aina Linuxissa terminaalia tai Windowsissa Git Bashia, ja tee Commitit sekä Pushit käsin.
 
-1. Jos et ole koulun koneella ja koneessasi ei ole valmiiksi Gitiä, voit ladata sen täältä: http://help.github.com/win-set-up-git/. Ohje on Windowsille, mutta sen alussa on linkit myös muita käyttöjärjestelmiä varten.
+1. Jos et ole yliopiston koneella ja koneessasi ei ole valmiiksi Gitiä, voit ladata sen täältä: http://help.github.com/win-set-up-git/. Ohje on Windowsille, mutta sen alussa on linkit myös muita käyttöjärjestelmiä varten.
 2. Mene osoitteeseen [http://www.github.com/plans](http://www.github.com/plans)
 3. Vapaaehtoinen - hae itsellesi opiskelijatunnusta githubiin, saat ilmaisen Micro-planin ja siten ilmaisia private-repositorioita [https://education.github.com/](https://education.github.com/) 
 4. Paina oikealla ylhäällä olevaa nappia "Sign Up"
@@ -65,7 +65,7 @@ SSH-avaimen luominen ei ole pakollista, mutta helpottaa versionhallinnan käytt�
 ### Pieni repotreeni
 
 1. Varmista, että olet komentorivillä repositoriohakemistossasi (esim. Fraktaaligeneraattori)
-2. Avaa README-tiedosto vaikkapa komennolla `notepad README.md` (Windowsissa), `nano README.md` (koulun koneella), tai ihan millä tekstieditorilla haluat
+2. Avaa README-tiedosto suosikkitekstieditorillasi, vaikkapa komennolla `nano README.md`
 3. Tiedoston pitäisi aueta valitsemassasi editorissa. Kirjoita tiedostoon jotakin ja tallenna se. Nanossa tallenna ja sulje tiedosto painamalla *Ctrl + x*, ja vahvista tallennus painamalla *enter*.
 4. Anna komentorivillä komento *git status*. Nyt näet luettelon tiedostoista, joita olet muokannut (modified), tässä tapauksessa README-tiedosto.
 5. Anna komento git commit -am “eka muokkaus”. Jos viesti (tässä eka muokkaus) unohtuu, avautuu editori. Poistu editorista komennolla `q`. Anna antamasi commit-komento uudelleen, tällä kertaa viestin kera.
