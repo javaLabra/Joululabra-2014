@@ -59,12 +59,12 @@ SSH-avaimen luominen ei ole pakollista, mutta helpottaa versionhallinnan käytt�
 3. Avaa komentorivi ja anna komento tyyliin `git clone git@github.com:käyttäjätunnuksesi/Fraktaaligeneraattori.git`
 4. Seuraavaksi ohjelma pyytää vahvistamaan äskeisen komennon (yes/no) - vastaa yes
   * Jos git push sanoo “Permission denied (publickey)”, kokeile ssh-avaimen generointia uudestaan tai komentoa ssh-add
-5. Mene komentorivillä äsken kloonaamaasi kansioon (esim. Fraktaaligeneraattori) komennolla `cd Fraktaaligeneraattori` tms. Kaikki tiedostot voit listata komennolla `ls`.
-6. Komennon `cd Fraktaaligeneraattori` jälkeen olet kansiossa, johon tulet tallentamaan projektisi. Nyt komennolla `ls` tulisi näkyä tiedosto README.
+5. Mene komentorivillä äsken kloonaamaasi hakemistoon (esim. Fraktaaligeneraattori) komennolla `cd Fraktaaligeneraattori` tms. Kaikki tiedostot voit listata komennolla `ls`.
+6. Komennon `cd Fraktaaligeneraattori` jälkeen olet hakemistossa, johon tulet tallentamaan projektisi. Nyt komennolla `ls` tulisi näkyä tiedosto README.
 
 ### Pieni repotreeni
 
-1. Varmista, että olet komentorivillä repositoriokansiossasi (esim. Fraktaaligeneraattori)
+1. Varmista, että olet komentorivillä repositoriohakemistossasi (esim. Fraktaaligeneraattori)
 2. Avaa README-tiedosto vaikkapa komennolla `notepad README.md` (Windowsissa), `nano README.md` (koulun koneella), tai ihan millä tekstieditorilla haluat
 3. Tiedoston pitäisi aueta valitsemassasi editorissa. Kirjoita tiedostoon jotakin ja tallenna se. Nanossa tallenna ja sulje tiedosto painamalla *Ctrl + x*, ja vahvista tallennus painamalla *enter*.
 4. Anna komentorivillä komento *git status*. Nyt näet luettelon tiedostoista, joita olet muokannut (modified), tässä tapauksessa README-tiedosto.
@@ -75,30 +75,30 @@ SSH-avaimen luominen ei ole pakollista, mutta helpottaa versionhallinnan käytt�
 
 ### Toinen repotreeni
 
-1. Hankkiudu komentorivillä repositorion kansioosi (esim. OhHa). Anna komento `mkdir testikansio` luodaksesi uuden kansion. 
-2. Lisää testikansioosi jokin tiedosto: etsi tietokoneeltasi luomasi kansio ja luo tai siirrä sinne vaikkapa tekstitiedosto.
-3. Lisää luomasi kansio versionhallinnoitavaksi antamalla komentoriville komento `git add testikansio`. Nyt versionhallinta seuraa kansiotasi siinä mielessä, että se näkyy status-komennolla, ja sen voi siirtää paikalliseen versionhallintaan (commit). Huomaa, että typötyhjä kansio ei tule hallinnoitavaksi add-komennolla.
-4. Anna commit-komento (`git commit -m “uusi testitiedosto ja -kansio lisatty”`).
-5. Anna push-komento (`git push`). Tarkista Githubin nettisivulta, että uusi kansiosi ja sen sisältämä tiedosto ilmestyvät repositorionäkymääsi.
+1. Hankkiudu komentorivillä repositorion hakemistoosi (esim. OhHa). Anna komento `mkdir testihakemisto` luodaksesi uuden hakemiston. 
+2. Lisää testihakemistoosi jokin tiedosto: etsi tietokoneeltasi luomasi hakemisto ja luo tai siirrä sinne vaikkapa tekstitiedosto.
+3. Lisää luomasi hakemisto versionhallinnoitavaksi antamalla komentoriville komento `git add testihakemisto`. Nyt versionhallinta seuraa hakemistotasi siinä mielessä, että se näkyy status-komennolla, ja sen voi siirtää paikalliseen versionhallintaan (commit). Huomaa, että typötyhjä hakemisto ei tule hallinnoitavaksi add-komennolla.
+4. Anna commit-komento (`git commit -m “uusi testitiedosto ja -hakemisto lisatty”`).
+5. Anna push-komento (`git push`). Tarkista Githubin nettisivulta, että uusi hakemistosi ja sen sisältämä tiedosto ilmestyvät repositorionäkymääsi.
 
 **Huom:** Jos haluat lisätä useita tiedostoja kerralla, se onnistuu komennolla `git add .`
 
-Nyt osaat lisätä Githubiin tiedostoja ja kansioita: add - commit - push! Tee samaan malliin harjoitustyöllesi dokumentaatiokansio ja sinne ensimmäisellä viikolla tarvittava dokumentointi.
+Nyt osaat lisätä Githubiin tiedostoja ja hakemistoita: add - commit - push! Tee samaan malliin harjoitustyöllesi dokumentaatiohakemisto ja sinne ensimmäisellä viikolla tarvittava dokumentointi.
 
 ### Kolmas repotreeni: pull
 
-Jos työskentelet useammalla kuin yhdellä koneella, voit versionhallinnan avulla pitää projektin ajan tasalla ilman että joudut siirtämään tiedostoja koneelta toiselle esimerkiksi muistitikulla. Sehän on yksi versionhallinnan hyödyistä! Tässä harjoituksessa pääset harjoittelemaan tiedostojen kopioimista Githubista koneellesi toisen repositoriokloonikansion avulla. Todellisessa tilanteessa harjoituksessa luotava toinen kloonikansio vastaa eri koneella olevaa kloonikansiota. Et siis tarvitse toista kloonia (varjorepo) muuhun kuin tähän harjoitukseen.
+Jos työskentelet useammalla kuin yhdellä koneella, voit versionhallinnan avulla pitää projektin ajan tasalla ilman että joudut siirtämään tiedostoja koneelta toiselle esimerkiksi muistitikulla. Sehän on yksi versionhallinnan hyödyistä! Tässä harjoituksessa pääset harjoittelemaan tiedostojen kopioimista Githubista koneellesi toisen repositoriokloonihakemiston avulla. Todellisessa tilanteessa harjoituksessa luotava toinen kloonihakemisto vastaa eri koneella olevaa kloonihakemistota. Et siis tarvitse toista kloonia (varjorepo) muuhun kuin tähän harjoitukseen.
 
-1. Luo uudella nimellä (esim. varjorepo) toinen klooni repositoriosta antamalla komentorivillä komento tyyliin `git clone git@github.com:käyttäjätunnuksesi/Fraktaaligeneraattori.git varjorepo`. Klooni luodaan siis muuten kuten kohdassa “Repositorion valmistelu käyttöä varten”, paitsi että nyt kloonikansio nimetään itse.
-2. Muokkaa alkuperäisessä repossa (esim. Fraktaaligeneraattori) olevaa tiedostoa README. Anna add-komento, commit-komento ja push-komento alkuperäisessä repositoriokloonikansiossasi (Fraktaaligeneraattori), jotta äsken tehty muutos päätyy Githubiin asti.
+1. Luo uudella nimellä (esim. varjorepo) toinen klooni repositoriosta antamalla komentorivillä komento tyyliin `git clone git@github.com:käyttäjätunnuksesi/Fraktaaligeneraattori.git varjorepo`. Klooni luodaan siis muuten kuten kohdassa “Repositorion valmistelu käyttöä varten”, paitsi että nyt kloonihakemisto nimetään itse.
+2. Muokkaa alkuperäisessä repossa (esim. Fraktaaligeneraattori) olevaa tiedostoa README. Anna add-komento, commit-komento ja push-komento alkuperäisessä repositoriokloonihakemistossasi (Fraktaaligeneraattori), jotta äsken tehty muutos päätyy Githubiin asti.
 3. Mene tämän harjoituksen alussa luomaasi varjorepoon. Avaa nyt README-tiedosto tässä uudessa repossa, jolloin huomaat että se ei ole muuttunut.
-4. Vedä alkuperäisessä kansiossasi (Fraktaaligeneraattori) tekemäsi muutokset varjorepoon Githubista komennolla `git pull`. Huomaat, että README-tiedosto päivittyy niiden muutosten mukaan, jotka teit alkuperäisessä kloonissa! Tarkista tämä vielä varjorepossa olevasta README-tiedostosta.
+4. Vedä alkuperäisessä hakemistossasi (Fraktaaligeneraattori) tekemäsi muutokset varjorepoon Githubista komennolla `git pull`. Huomaat, että README-tiedosto päivittyy niiden muutosten mukaan, jotka teit alkuperäisessä kloonissa! Tarkista tämä vielä varjorepossa olevasta README-tiedostosta.
 
 ### Git & Netbeans
 
-Git ja Netbeans ovat hyviä kavereita. Luo ensin Netbeans-projektisi [näiden ohjeiden](Maven-Cobertura-ja-PIT.md#projektin-luominen) mukaisesti. Käytä Netbeans-projektin tallennuspaikkana koneellasi olevaa repositoriokloonikansiota: aseta Netbeansissa kohtaan “Project Location” koneella oleva repositorion kansio (esim. Fraktaaligeneraattori). Nyt tallennat projektiasi koko ajan repositorion kansioon.
+Git ja Netbeans ovat hyviä kavereita. Luo ensin Netbeans-projektisi [näiden ohjeiden](Maven-Cobertura-ja-PIT.md#projektin-luominen) mukaisesti. Käytä Netbeans-projektin tallennuspaikkana koneellasi olevaa repositoriokloonihakemistota: aseta Netbeansissa kohtaan “Project Location” koneella oleva repositorion hakemisto (esim. Fraktaaligeneraattori). Nyt tallennat projektiasi koko ajan repositorion hakemistoon.
 
-1. Anna (kun olet ensin siirtynyt komentorivillä repositoriokansioosi) komentoriville komento `git status`. Huomaat kaksi uutta tiedostoa: harjoitustyösi lisäksi tiedoston .gitignore. Viimeksi mainittu on Netbeansin luoma tiedosto, joka antaa listan versionhallintaan kuulumattomista tiedostoista. Se pitää lisätä versionhallinnoitavaksi. Tiedostosta ei tarvitse ymmärtää enempää, mutta jos haluat tai tiedosto ei generoitunut automaattisesti, lue tämän dokumentin lopusta lyhyt .gitignore -selite.
+1. Anna (kun olet ensin siirtynyt komentorivillä repositoriohakemistoosi) komentoriville komento `git status`. Huomaat kaksi uutta tiedostoa: harjoitustyösi lisäksi tiedoston .gitignore. Viimeksi mainittu on Netbeansin luoma tiedosto, joka antaa listan versionhallintaan kuulumattomista tiedostoista. Se pitää lisätä versionhallinnoitavaksi. Tiedostosta ei tarvitse ymmärtää enempää, mutta jos haluat tai tiedosto ei generoitunut automaattisesti, lue tämän dokumentin lopusta lyhyt .gitignore -selite.
 2. Anna komento `git add harkkatyöprojektisiNimi`_ ja sen jälkeen komento `git add .gitignore`.
 3. Nyt komennon git status pitäisi näyttää sekä harkkatyöprojektisi sisältöineen että .gitignore.
 
@@ -125,15 +125,15 @@ Nyt voit jatkaa harjoitustyötäsi miltä tahansa tietokoneelta aina siitä mihi
 
 ### Lyhyt .gitignore -ohje
 
-.gitignore on tiedosto, joka sisältää tiedon niistä tiedostoista ja kansioista, joita ei haluta versionhallintaan eikä Githubiin. Nämä esitetään sääntöinä, jokainen sääntö omalla rivillään. Yleensä nämä tiedostot ovat kehitysympäristöjen joka ajokerralla generoitavia tai arkaluontoista tietoa sisältäviä tiedostoja, joita ei haluta versionhallintaan viemään tilaa tai kaikkien nähtäville. **.gitignore tiedosto itsessään halutaan Githubiin.**
+.gitignore on tiedosto, joka sisältää tiedon niistä tiedostoista ja hakemistoista, joita ei haluta versionhallintaan eikä Githubiin. Nämä esitetään sääntöinä, jokainen sääntö omalla rivillään. Yleensä nämä tiedostot ovat kehitysympäristöjen joka ajokerralla generoitavia tai arkaluontoista tietoa sisältäviä tiedostoja, joita ei haluta versionhallintaan viemään tilaa tai kaikkien nähtäville. **.gitignore tiedosto itsessään halutaan Githubiin.**
 
-Netbeans luo .gitignore -tiedoston automaattisesti, kun Netbeans-projektin luo kansioon, joka on repositorio. Netbeans lisää sinne säännön */projektikansiosi_nimi/nbproject/private/*, joka estää versionhallintaan menemästä tiedostoja, jotka Netbeans luo aina kun käännät ja ajat ohjelmasi. `git status` -komento ei siis huomaa lainkaan, vaikka private/ -kansion sisällä tapahtuu muutoksia.
+Netbeans luo .gitignore -tiedoston automaattisesti, kun Netbeans-projektin luo hakemistoon, joka on repositorio. Netbeans lisää sinne säännön */projektihakemistosi_nimi/nbproject/private/*, joka estää versionhallintaan menemästä tiedostoja, jotka Netbeans luo aina kun käännät ja ajat ohjelmasi. `git status` -komento ei siis huomaa lainkaan, vaikka private/ -hakemiston sisällä tapahtuu muutoksia.
 
 Jos Netbeans jostain syystä ei tehnyt tällaista tiedostoa, voit luoda sen itse.
 1. Tee tekstitiedosto, jolle annat nimeksi ".gitignore"
   * Tiedostolla ei ole tiedostopäätettä
-2. Lisää tekstitiedostoon rivi */projektikansiosi_nimi/nbproject/private/*
-3. Lisää myös rivi */projektikansiosi_nimi/nbproject/dist/*
+2. Lisää tekstitiedostoon rivi */projektihakemistosi_nimi/nbproject/private/*
+3. Lisää myös rivi */projektihakemistosi_nimi/nbproject/dist/*
 
 Vastaavasti .gitignore-tiedostoon voi lisätä omia sääntöjä. Jokainen sääntö tulee omalle rivilleen. 
 
