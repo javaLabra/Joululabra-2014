@@ -40,4 +40,4 @@
 | 14-16 |  -  |  -  |  -  |  paja  |  -  |  -  |  -  |
 | 16-18 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
 | 16-20 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-| 23:59 |  -  |  -  |  -  |  deadline  |  -  |  -  |  -  |
+| 23:59 |  -  |  -  |  -  |  deadline  |  -  |  -  |  koodikatselmoinnin deadline (vain viikoilla 3 ja 5)  |
