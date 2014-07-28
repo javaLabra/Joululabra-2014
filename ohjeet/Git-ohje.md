@@ -48,7 +48,7 @@ SSH-avaimen luominen ei ole pakollista, mutta helpottaa versionhallinnan käytt�
 12. Anna confirm-kentälle Githubin salasanasi
 13. Avaimesi on nyt lisätty Githubiin!
 
-**HUOM.** Joudut tekemään tämän jokaisella koneella, josta haluat käyttää Githubia. Laitoksella riittää, että ssh-avaimen luomisen tekee kerran yhdellä koneella.
+**HUOM.** Sinulla tulee olla edellisessä kohdassa tekemäsi ssh-avaimen yksityinen osa (id_rsa) jokaisella koneella, josta haluat käyttää Githubia. Vaihtoehtoisesti voit luoda erillisen ssh-avaimen jokaiselle koneelle. Laitoksella riittää, että ssh-avaimen luomisen tekee vain kerran yhdellä koneella.
 
 ### Repositorion valmisteleminen käyttöä varten
 
