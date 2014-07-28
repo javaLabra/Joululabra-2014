@@ -5,11 +5,11 @@
 # Ohjaajat
 
 - Ohjaajat
-    - Heikki Haapala -- **Absor** -- etunimi.sukunimi@helsinki.fi
     - Mikko Kumara -- **kumikumi** -- kumikumi at cs.helsinki.fi
+    - Nikke Kostiainen -- **NikG** -- nikke.kostiainen at helsinki.fi
 - Yhteyttä sähköpostilla tai irkissä
 - Irkkikanava #javalabra2014 @ IRCnet
-- Kurssisivu <http://javalabra.github.io/Javalabra2014-5>
+- Kurssisivu <http://javalabra.github.io/Javalabra2014-6>
 
 # Mistä kyse?
 
@@ -81,9 +81,9 @@
 
 - Kurssin aikana tarjolla **ohjausta** eli pajaa joka viikko
     - Alustava viikoittainen aikataulu:
-    	- **ti 14-16**
+    	- **ti 12-14**
     	- **to 14-16**
-    - Luokassa B221 (kakkoskerroksen pajaluokka)
+    - Luokassa ??
     - Vapaaehtoista
     - **Paras väylä saada apua ja palautetta ohjaajilta**
 
@@ -116,6 +116,6 @@
 
 - **Tervetuloa kurssille!**
 - Muistakaa -- ensimmäinen deadline tämän viikon torstaina klo 23:59
-- Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Javalabra2014-5>
+- Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Javalabra2014-6>
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tai pyytämään apua ensimmäisen deadlinen tai muissa asioissa
