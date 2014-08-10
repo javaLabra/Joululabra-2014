@@ -5,6 +5,7 @@
 * Javadocia **ei** tarvitse kirjoittaa...
   * Testeille
   * @Override -metodeille
+  * Yksityisille (private) metodeille
   * Gettereille ja Settereille, jotka eivät tee mitään ylimääräistä
   * Aivan kaikille käyttöliittymäluokkien metodeille
 
