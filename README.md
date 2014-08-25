@@ -22,6 +22,7 @@
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta mieluiten ohjauksissa tai IRCissä tai lähetä sähköpostia.
 
 ### Uutisia
+* **(25.8.)** Demo-ajat vahvistettu to 28.8 klo 16- ja pe 29.8. klo 14-
 * **(7.8.)** Tenttipäällekkäisyyden vuoksi kolmosviikon tiistain (12.8.) paja poikkeuksellisesti klo. 14-16. Seuraavasta viikosta lähtien taas normaaliin aikaan.
 * **(1.8.)** Tiistain paja-aikaa siirretty laitoksen aukioloaikojen pidentymisen johdosta myöhemmälle. Uusi paja-aika on 16-18. Mikäli muutoksen johdosta joku halukas ei pääse kumpaankaan pajaan huudelkaa irkissä tai laittakaa sähköpostia.
 * Pakollinen aloitusluento 28.7. klo 14.15 luokassa BK107.
