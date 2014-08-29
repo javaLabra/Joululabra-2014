@@ -90,4 +90,4 @@ Käytä kaikessa dokumentoinnissa omaa harkintakykyäsi pituuden ja laajuuden ka
 
 ### Lopputulos:
 
-![viiskauttaviis](https://raw.github.com/kxkyllon/Javalabra/master/kuvat/viiskauttaviis.gif)!
+![viiskauttaviis](http://www.cs.helsinki.fi/u/laka/kuvat/viiskauttaviis.png)!
