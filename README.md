@@ -13,8 +13,8 @@
 * [JavaDoc](ohjeet/JavaDoc.md)
 
 **Ohjaajat:**
-* Lauri Kangassalo
-* Essi Salmenkivi
+* Lauri Kangassalo (ransum)
+* Essi Salmenkivi (iorena)
 
 Sähköpostit: etunimi.sukunimi@helsinki.fi
 
