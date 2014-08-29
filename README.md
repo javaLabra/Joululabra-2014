@@ -25,6 +25,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta mieluiten ohjauksissa tai IRCissä tai lähetä sähköpostia.
 
 ### Uutisia
+* Ensimmäisellä viikolla ei ole pajaa
 
 ### Palaute työstäsi
 
@@ -37,8 +38,8 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 | klo | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10-12 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-| 12-14 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-| 14-16 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-| 16-18 |  -  |  - |  -  |  -  |  -  |  -  |  -  |
+| 12-14 |  -  |  -  | paja|  -  |  -  |  -  |  -  |
+| 14-16 |  -  |  -  |  -  | paja|  -  |  -  |  -  |
+| 16-18 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
 | 16-20 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-| 23:59 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+| 23:59 |  -  |  -  |  -  | viikkodeadline| loppupalautus (viikko 7)|  -  | koodikatselmointien dl (viikot 3 ja 6)|
