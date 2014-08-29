@@ -2,16 +2,19 @@
 
 ### Ohjelma on demokunnossa
 * Ohjelman päätoiminnallisuuden tulee olla esittelykunnossa
-* Isoimmat bugit on korjattu
+* Suurempia bugeja ei ole, eikä ohjelma kaadu normaalikäytössä
 * Mikäli ohjelmaan sisältyy graafinen käyttöliittymä, tulee sen olla käytettävissä
+
+### Testaus
+* Muista tehdä testejä kirjoittamallesi koodille, ja varmista, että testikattavuus pysyy hyvänä
 
 ### Sekvenssikaaviot
 * Tee vielä 1-2 sekvenssikaaviota lisää
 * Päivitä vanhoja, jos tarpeen
 
 ### Muu dokumentaatio
-* Aihemäärittely, luokkakaaviot ja sekvenssikaaviot ajantasalla
+* Aihemäärittely ja luokkakaaviot ajantasalla
 
 ### Ohjelman laajentaminen
-* Mikäli koet, että ohjelmasi on bugiton, ja hyvin dokumentoitu ja testattu, voit lisätä siihen uusia ominaisuuksia
-  * Voit kysyä ehdotuksia ohjaajilta
+* Mikäli koet, että ohjelmasi on bugiton, hyvin dokumentoitu ja testattu, voit lisätä siihen uusia ominaisuuksia
+  * Kysy ehdotuksia ohjaajilta!
