@@ -67,5 +67,6 @@ Oman aiheen ei ole pakko olla allaolevasta listasta. Listassa on kuitenkin erila
   * DNA-ketjujen tutkija 
   * Keräilykorttien hallintajärjestelmä
   * Sudoku-ratkaisin
+  * Fraktaaligeneraattori
 
 Voit katsoa myös [vanhat esimerkkiaiheet](https://www.cs.helsinki.fi/node/59273), jotka tosin ovat suurimmaksi osaksi samoja.
