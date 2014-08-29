@@ -22,15 +22,5 @@
 * JavaDocia ei tarvitse kirjoittaa testeille tai get/set -metodeille, jotka eivät tee mitään ylimääräistä
 * JavaDocista ei vielä tässä vaiheessa tarvitse luoda HTML-versiota
 
-### Piirrä sekvenssikaavioita
-
-* Muista: .png tai .jpg
-* Luonnostele 2-3 tärkeintä sekvenssikaaviota käyttötapauksista
-* Tärkeimmät käyttötapaukset löydät aihemäärittelystäsi
-* Ota kuvataksesi riittävän pieniä käyttötapauksia
-* Älä yritä samassa kaaviossa esittää liian montaa asiaa, esimerkiksi ehdollisuutta
-* Epäonnistunut ja onnistunut kirjautuminen voisivat olla omat kaavionsa, tai yhden kaavion kaksi osaa
-  * Sekvenssikaavio alkaa tunnusten syöttämisellä, kirjautuminen hylätään, virheilmoitus, tunnukset syötetään uudestaan, kirjautuminen onnistuu
-
 ### Muu dokumentointi
 * Päivitä luokkakaavio ja aihemäärittely, jos tarpeen
