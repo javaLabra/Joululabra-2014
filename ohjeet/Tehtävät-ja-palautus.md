@@ -46,7 +46,7 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Testaa, että ohjelmasi toimii laitoksen koneilla ennen demoa. Demokoneelle on ladattu kaikkien kurssilaisten GitHub-repositoriot hieman ennen demotilaisuuden alkua. Voit vaihtoehtoisesti tuoda oman läppärisi ja demota siltä.
 * Tarkempi aikataulu ilmoitetaan myöhemmin.
 
-### Deadline VI, palautus, torstai 17.10.
+### Deadline VII, palautus, perjantai 17.10.
 
 * [Lopullisen palautuksen vaatimukset](Deadline-7-lopullinen-palautus.md)
 * [Muistilista lopullista palautusta varten](Muistilista.md)
