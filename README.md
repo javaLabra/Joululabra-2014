@@ -24,7 +24,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta mieluiten ohjauksissa tai IRCissä tai lähetä sähköpostia.
 
 ### Uutisia
-* Ensimmäisellä viikolla ei ole pajaa
+* **(29.8.)** Ensimmäisellä viikolla ei ole pajaa
 
 ### Palaute työstäsi
 
