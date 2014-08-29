@@ -48,12 +48,14 @@ Mikäli painike ei ole käytössä, voi saman hoitaa komentoriviltä menemällä
 
 ### Attribuuttien dokumentointi
 
-Attribuuttien dokumentointi tehdään kuten metodienkin. 
+Oliomuuttujille ei yleisesti ottaen tarvitse kirjoittaa JavaDoc-kommentteja, sillä ne ovat usein yksityisiä ja täten eivät kuulu luokan JavaDocilla kuvattavaan APIin. Jos sinulla on koodissasi julkisia (public) muuttujia, ne suositellaankin ensisijaisesti muutettavaksi yksityisiksi (private), jolloin JavaDoc-kommentteja voidaan kirjoittaa niiden setteri- ja getterimetodeille.
+
+Jos sinulla kaikesta huolimatta on julkisia muuttujia, JavaDoc-syntaksin mukaan niiden dokumentointi tehdään kuten metodienkin: 
 ``` java
 /**
  * Kalibrointiarvo todennäköisyyden laskemiseen
  */
-private int kalibrointi = 20;
+public int kalibrointi = 20;
 ```
  
 ### Tarkempi dokumentointi
