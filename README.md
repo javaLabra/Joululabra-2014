@@ -1,5 +1,4 @@
 ﻿# Ohjelmoinnin harjoitustyö
-**Sivusto on vielä kesken!**
 
 * [Yleistä](ohjeet/Yleistä.md)
 * [Esimerkkejä aiheista](ohjeet/Esimerkkejä-aiheista.md)
