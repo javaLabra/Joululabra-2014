@@ -41,4 +41,4 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 | 14-16 |  -  |  -  |  -  | paja|  -  |  -  |  -  |
 | 16-18 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
 | 16-20 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-| 23:59 |  -  |  -  |  -  | viikkodeadline| loppupalautus (viikko 7)|  -  | koodikatselmointien dl (viikot 3 ja 6)|
+| 23:59 |  -  |  -  |  -  | deadline| - |  -  | koodikatselmointien dl (viikot 3 ja 6)|
