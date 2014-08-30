@@ -33,7 +33,6 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ### Viikkoaikataulu
 
-
 | klo | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10-12 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
@@ -42,3 +41,5 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 | 16-18 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
 | 16-20 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
 | 23:59 |  -  |  -  |  -  | deadline| - |  -  | koodikatselmointien dl (viikot 3 ja 6)|
+
+Pajat pidetään luokassa **B221**, ellei toisin ilmoiteta.
