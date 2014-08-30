@@ -1,22 +1,22 @@
 % Ohjelmoinnin harjoitustyö a.k.a. Javalabra
-% Heikki Haapala, Mikko Kumara
-% 12.5.2014
+% Lauri Kangassalo, Essi Salmenkivi
+% 2.9.2014
 
 # Ohjaajat
 
 - Ohjaajat
-    - Mikko Kumara -- **kumikumi** -- kumikumi at cs.helsinki.fi
-    - Nikke Kostiainen -- **NikG** -- nikke.kostiainen at helsinki.fi
+    - Lauri Kangassalo -- **ransum** -- lauri.kangassalo at helsinki.fi
+    - Essi Salmenkivi -- **iorena** -- essi.salmenkivi at helsinki.fi
 - Yhteyttä sähköpostilla tai irkissä
 - Irkkikanava #javalabra2014 @ IRCnet
-- Kurssisivu <http://javalabra.github.io/Javalabra2014-6>
+- Kurssisivu <http://javalabra.github.io/Javalabra2014-1>
 
 # Mistä kyse?
 
 - Kurssilla...
     - Ohjelmoidaan
+	 - Testataan
     - Dokumentoidaan
-    - Testataan
 - ...jokin sovellus itse valitusta aiheesta!
 - Jokainen näistä tärkeä -- jonkin laiminlyönti johtaa hylkäämiseen
 
@@ -81,15 +81,15 @@
 
 - Kurssin aikana tarjolla **ohjausta** eli pajaa joka viikko
     - Alustava viikoittainen aikataulu:
-    	- **ti 12-14**
+    	- **ke 12-14**
     	- **to 14-16**
-    - Luokassa ??
+    - Luokassa **B221**
     - Vapaaehtoista
     - **Paras väylä saada apua ja palautetta ohjaajilta**
 
 # Kurssin kulku
 
-- Viikolla 3 ja 5 **koodikatselmointi**
+- Viikoilla 3 ja 6 **koodikatselmointi**
     - Jokainen opiskelija saa toisen opiskelijan projektin katselmoitavaksi
     - Opiskelijat kirjoittavat palautetta toisen projektista
     - Tarkoitus oppia lukemaan ja ymmärtämään toisten koodia
@@ -116,6 +116,7 @@
 
 - **Tervetuloa kurssille!**
 - Muistakaa -- ensimmäinen deadline tämän viikon torstaina klo 23:59
-- Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Javalabra2014-6>
+- Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Javalabra2014-1>
     - Kannattaa käydä koko sivusto läpi tarkkaan!
-- Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tai pyytämään apua ensimmäisen deadlinen tai muissa asioissa
+- Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tai pyytämään apua
+	 - On suositeltavaa aloittaa ensimmäisen viikon tehtävien tekeminen nyt
