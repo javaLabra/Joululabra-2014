@@ -29,8 +29,8 @@ Käytä kaikessa dokumentoinnissa omaa harkintakykyäsi pituuden ja laajuuden ka
 **Javadoc**
 * Muista erityisesti seuraavat:
   * Luokat kuvattu
-  * Attribuutit kuvattu
-  * Metodit ja metodien parametrit/palautusarvot kuvattu
+  * Attribuutit kuvattu (jos julkisia)
+  * Julkiset metodit ja metodien parametrit/palautusarvot kuvattu
 * Testejä **ei** tarvitse kuvata
 * @Override -metodeja **ei** tarvitse usein kuvata
 * Set/Get -metodeja **ei** tarvitse kuvata, jos metodit eivät tee laskentaa tai tarkastuksia
