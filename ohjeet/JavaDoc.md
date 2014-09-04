@@ -30,7 +30,7 @@ public int onnistumistodennakoisyys(int syote) {
 }
 ```
 
-JavaDocin @param jne. avainsanoja ei onneksi tarvitse opetella ulkoa, koska NetBeans osaa täydentää myös JavaDoc-dokumentointia.  Oletusarvoisesti private & package -näkyvyydellä olevat metodit eivät tule dokumentointiin.  Tässä projektissa dokumentoimme kuitenkin kaikki.
+JavaDocin @param jne. avainsanoja ei onneksi tarvitse opetella ulkoa, koska NetBeans osaa täydentää myös JavaDoc-dokumentointia.  Private & package -näkyvyydellä olevat metodit eivät tule dokumentointiin.
 
 Myös luokkia voi ja kannattaa dokumentoida. Se tapahtuu samalla tavoin kuin metodienkin dokumentointi.
 ``` java
