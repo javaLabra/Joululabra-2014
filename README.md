@@ -24,6 +24,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta mieluiten ohjauksissa tai IRCissä tai lähetä sähköpostia.
 
 ### Uutisia
+* **(8.10.)** tiistaina **14.10.** paja poikkeuksellisesti salissa **BK107**
 * **(8.10.)** Demotilaisuuksien ajankohdat julkaistu
 * **(29.8.)** Ensimmäisellä viikolla ei ole pajaa
 
