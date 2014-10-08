@@ -40,7 +40,7 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 ### Demot
 
 * Tule sukunimesi alkukirjaimen osoittamaan demoon.
-* **A-M** ti 14.10. klo 14-16
+* **A-L** ti 14.10. klo 14-16
 * **M-Ö** ke 15.10. klo 14-16
 * Demot järjestetään salissa **A217**
 * Demotilaisuuteen on pakko osallistua.
