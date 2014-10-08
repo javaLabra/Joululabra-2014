@@ -39,12 +39,15 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 
 ### Demot
 
+* Tule sukunimesi alkukirjaimen osoittamaan demoon.
+* **A-M** ti 14.10. klo 14-16
+* **M-Ö** ke 15.10. klo 14-16
+* Demot järjestetään salissa **A217**
 * Demotilaisuuteen on pakko osallistua.
 * Omaa työtä esitetään 5-10 min. 
 * Ohjelma ei tarvitse olla demottaessa valmis tai bugiton
 * Vastataan myös ohjaajien tai muiden ryhmäläisten esittämiin kysymyksiin.
 * Testaa, että ohjelmasi toimii laitoksen koneilla ennen demoa. Demokoneelle on ladattu kaikkien kurssilaisten GitHub-repositoriot hieman ennen demotilaisuuden alkua. Voit vaihtoehtoisesti tuoda oman läppärisi ja demota siltä.
-* Tarkempi aikataulu ilmoitetaan myöhemmin.
 
 ### Deadline VII, palautus, perjantai 17.10. klo 23:59
 
