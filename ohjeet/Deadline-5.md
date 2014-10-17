@@ -13,7 +13,7 @@
 
 ### JavaDoc
 * Päivitä luokkien kuvauksia, jos tarpeen
-* Kuvaa mahdollisimman paljon metodeja ja attribuutteja
+* Kuvaa mahdollisimman paljon julkisia metodeja
   * @Override -metodit voi jättää kuvaamatta
   * Get- ja Set- metodit voi jättää kuvaamatta, jos ne eivät tee mitään erikoista
 * Testeille ei kirjoiteta javadocia
