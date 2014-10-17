@@ -87,6 +87,7 @@ Käytä kaikessa dokumentoinnissa omaa harkintakykyäsi pituuden ja laajuuden ka
     * käyttöohjeet.md
     * tuntikirjanpito.md
     * luokka- ja sekvenssikaaviot
+    * PIT-raportti
 
 ### Lopputulos:
 
