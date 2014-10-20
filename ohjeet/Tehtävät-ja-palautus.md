@@ -13,43 +13,39 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Käy tasaisin ajoin keskustelemassa edistymisestäsi, saat samalla palautteen!
 * **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
 
-### Deadline I, torstai 4.9.
+### Deadline I, torstai 30.10.
 * [Deadlinen 1 vaatimukset](Deadline-1.md)
 
-### Deadline II, torstai 11.9.
+### Deadline II, torstai 6.11.
 * [Deadlinen 2 vaatimukset](Deadline-2.md)
 
-### Deadline III, torstai 18.9.
+### Deadline III, torstai 13.11.
 * [Deadlinen 3 vaatimukset](Deadline-3.md)
 
-### Deadline Katselmointi I, sunnuntai 21.9.
+### Deadline Katselmointi I, sunnuntai 16.11.
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
-### Deadline IV, torstai 25.9.
+### Deadline IV, torstai 20.11.
 * [Deadlinen 4 vaatimukset](Deadline-4.md)
 
-### Deadline V, torstai 2.10.
+### Deadline V, torstai 27.11.
 * [Deadlinen 5 vaatimukset](Deadline-5.md)
 
-### Deadline VI, torstai 9.10.
+### Deadline VI, torstai 4.12.
 * [Deadlinen 6 vaatimukset](Deadline-6.md)
 
-### Deadline Katselmointi II, sunnuntai 12.10.
+### Deadline Katselmointi II, sunnuntai 7.12.
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
 ### Demot
 
-* Tule sukunimesi alkukirjaimen osoittamaan demoon.
-* **A-L ti 14.10. klo 14-16**
-* **M-Ö ke 15.10. klo 14-16**
-* Demot järjestetään salissa **A217**
 * Demotilaisuuteen on pakko osallistua.
 * Omaa työtä esitetään 5-10 min. 
 * Ohjelma ei tarvitse olla demottaessa valmis tai bugiton
 * Vastataan myös ohjaajien tai muiden ryhmäläisten esittämiin kysymyksiin.
 * Testaa, että ohjelmasi toimii laitoksen koneilla ennen demoa. Demokoneelle on ladattu kaikkien kurssilaisten GitHub-repositoriot hieman ennen demotilaisuuden alkua. Voit vaihtoehtoisesti tuoda oman läppärisi ja demota siltä.
 
-### Deadline VII, palautus, perjantai 17.10. klo 23:59
+### Deadline VII, palautus, perjantai 11.12. klo 23:59
 
 * [Lopullisen palautuksen vaatimukset](Deadline-7-lopullinen-palautus.md)
 * [Muistilista lopullista palautusta varten](Muistilista.md)
