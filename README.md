@@ -13,8 +13,8 @@
 * [JavaDoc](ohjeet/JavaDoc.md)
 
 **Ohjaajat:**
-* Lauri Kangassalo (ransum)
-* Essi Salmenkivi (iorena)
+* Nikke Kostiainen (NikG)
+* Joel Järvinen (puny)
 
 Sähköpostit: etunimi.sukunimi@helsinki.fi
 
@@ -24,9 +24,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta mieluiten ohjauksissa tai IRCissä tai lähetä sähköpostia.
 
 ### Uutisia
-* **(8.10.)** tiistaina **14.10.** paja poikkeuksellisesti salissa **BK107**
-* **(8.10.)** Demotilaisuuksien ajankohdat julkaistu
-* **(29.8.)** Ensimmäisellä viikolla ei ole pajaa
+
 
 ### Palaute työstäsi
 
@@ -38,8 +36,8 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 | klo | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 10-12 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-| 12-14 |  -  | paja|  -  |  -  |  -  |  -  |  -  |
-| 14-16 |  -  |  -  |  -  | paja|  -  |  -  |  -  |
+| 12-14 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+| 14-16 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
 | 16-18 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
 | 16-20 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
 | 23:59 |  -  |  -  |  -  | deadline| - |  -  | koodikatselmointien dl (viikot 3 ja 6)|
