@@ -1,6 +1,6 @@
 ﻿#Tehtävät ja palautus
 
-**Deadline on palautuksille aina torstaisin klo 23:59**
+**Deadline on palautuksille aina perjantaisin klo 23:59**
 
 Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). Versionhallinnassa käytetään tällä kurssilla Gittiä, tarkemmin Github-palvelua. Ensimmäisen deadlinen jälkeen palautukseksi katsotaan viimeisin ennen deadlinea suoritettu Github-pushaus. Erillisiä sähköpostipalautuksia tai vastaavia ei hyväksytä.
 
@@ -13,25 +13,25 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Käy tasaisin ajoin keskustelemassa edistymisestäsi, saat samalla palautteen!
 * **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
 
-### Deadline I, torstai 30.10.
+### Deadline I, perjantai 31.10.
 * [Deadlinen 1 vaatimukset](Deadline-1.md)
 
-### Deadline II, torstai 6.11.
+### Deadline II, perjantai 7.11.
 * [Deadlinen 2 vaatimukset](Deadline-2.md)
 
-### Deadline III, torstai 13.11.
+### Deadline III, perjantai 14.11.
 * [Deadlinen 3 vaatimukset](Deadline-3.md)
 
 ### Deadline Katselmointi I, sunnuntai 16.11.
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
-### Deadline IV, torstai 20.11.
+### Deadline IV, perjantai 21.11.
 * [Deadlinen 4 vaatimukset](Deadline-4.md)
 
-### Deadline V, torstai 27.11.
+### Deadline V, perjantai 28.11.
 * [Deadlinen 5 vaatimukset](Deadline-5.md)
 
-### Deadline VI, torstai 4.12.
+### Deadline VI, perjantai 5.12.
 * [Deadlinen 6 vaatimukset](Deadline-6.md)
 
 ### Deadline Katselmointi II, sunnuntai 7.12.
@@ -45,7 +45,7 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Vastataan myös ohjaajien tai muiden ryhmäläisten esittämiin kysymyksiin.
 * Testaa, että ohjelmasi toimii laitoksen koneilla ennen demoa. Demokoneelle on ladattu kaikkien kurssilaisten GitHub-repositoriot hieman ennen demotilaisuuden alkua. Voit vaihtoehtoisesti tuoda oman läppärisi ja demota siltä.
 
-### Deadline VII, palautus, perjantai 11.12. klo 23:59
+### Deadline VII, palautus, perjantai 12.12. klo 23:59
 
 * [Lopullisen palautuksen vaatimukset](Deadline-7-lopullinen-palautus.md)
 * [Muistilista lopullista palautusta varten](Muistilista.md)
