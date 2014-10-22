@@ -5,11 +5,11 @@
 # Ohjaajat
 
 - Ohjaajat
-    - Lauri Kangassalo -- **ransum** -- lauri.kangassalo at helsinki.fi
-    - Essi Salmenkivi -- **iorena** -- essi.salmenkivi at helsinki.fi
+    - Nikke Kostiainen -- **NikG** -- nikke.kostiainen at helsinki.fi
+    - Joel Järvinen -- **puny** -- joel.jarvinen at helsinki.fi
 - Yhteyttä sähköpostilla tai irkissä
 - Irkkikanava #javalabra2014 @ IRCnet
-- Kurssisivu <http://javalabra.github.io/Javalabra2014-1>
+- Kurssisivu <http://javalabra.github.io/Javalabra2014-2>
 
 # Mistä kyse?
 
@@ -83,7 +83,7 @@
     - Alustava viikoittainen aikataulu:
     	- **ke 12-14**
     	- **to 14-16**
-    - Luokassa **B221**
+    - Luokassa **B221** (toisen kerroksen pajaluokka)
     - Vapaaehtoista
     - **Paras väylä saada apua ja palautetta ohjaajilta**
 
@@ -116,7 +116,7 @@
 
 - **Tervetuloa kurssille!**
 - Muistakaa -- ensimmäinen deadline tämän viikon torstaina klo 23:59
-- Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Javalabra2014-1>
+- Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Javalabra2014-2>
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tai pyytämään apua
 	 - On suositeltavaa aloittaa ensimmäisen viikon tehtävien tekeminen nyt
