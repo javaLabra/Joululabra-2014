@@ -81,8 +81,8 @@
 
 - Kurssin aikana tarjolla **ohjausta** eli pajaa joka viikko
     - Alustava viikoittainen aikataulu:
-    	- **ke 12-14**
-    	- **to 14-16**
+    	- **ma 15-17**
+    	- **pe 14-16**
     - Luokassa **B221** (toisen kerroksen pajaluokka)
     - Vapaaehtoista
     - **Paras väylä saada apua ja palautetta ohjaajilta**
