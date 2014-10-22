@@ -69,9 +69,9 @@
 
 # Kurssin kulku
 
-- Jokaisen viikon torstaina **deadline** kello 23:59
+- Jokaisen viikon perjantaina **deadline** kello 23:59
     - Deadlinestä annetaan 0-2 pistettä kunkin deadlinen tehtävien mukaisesti
-    - Ensimmäinen deadline **tämän viikon torstaina!**
+    - Ensimmäinen deadline **tämän viikon perjantaina!**
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen perusteella
@@ -115,7 +115,7 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Muistakaa -- ensimmäinen deadline tämän viikon torstaina klo 23:59
+- Muistakaa -- ensimmäinen deadline tämän viikon perjantaina klo 23:59
 - Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Javalabra2014-2>
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tai pyytämään apua
