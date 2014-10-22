@@ -1,6 +1,6 @@
 % Ohjelmoinnin harjoitustyö a.k.a. Javalabra
-% Lauri Kangassalo, Essi Salmenkivi
-% 2.9.2014
+% Nikke Kostiainen, Joel Järvinen
+% 27.10.2014
 
 # Ohjaajat
 
