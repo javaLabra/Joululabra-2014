@@ -39,6 +39,7 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 
 ### Demot
 
+* Demojen ajankohdat päätetään demoviikon lähestyessä.
 * Demotilaisuuteen on pakko osallistua.
 * Omaa työtä esitetään 5-10 min. 
 * Ohjelma ei tarvitse olla demottaessa valmis tai bugiton
