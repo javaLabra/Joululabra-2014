@@ -43,4 +43,4 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 | 23:59 |  -  |  -  |  -  |  -  | deadline |  -  | koodikatselmointien dl (viikot 3 ja 6)|
 
 Pajat pidetään luokassa **B221**, ellei toisin ilmoiteta.
-Paja-ajat päätetään myöhemmin.
+Alustavat paja-ajat näkyvät yllä.
