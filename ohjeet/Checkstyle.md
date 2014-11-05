@@ -26,51 +26,85 @@ Lisää **pom.xml** tiedostoon
 </reporting>
 ```
 
-Checkstylen tarkkailemien virheiden joukko on konfiguroitavissa erillisen konfiguraatiotiedoston avulla, luo nyt tätä varten projektiin uusi **XML**-tiedosto jolle voit antaa nimeksi esimerkiksi _checkstyle.xml_. 
+Checkstylen tarkkailemien virheiden joukko on konfiguroitavissa erillisen konfiguraatiotiedoston avulla, luo nyt tätä varten projektiin uusi **XML**-tiedosto _checkstyle.xml_.
 
-Esimerkki konfiguraatiotiedostosta:
+Avaa tiedosto ja korvaa tiedoston sisältö tällä: 
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE module PUBLIC "-//Puppy Crawl//DTD Check Configuration 1.3//EN" "http://www.puppycrawl.com/dtds/configuration_1_3.dtd">
-<module name="Checker">
-    <module name="StrictDuplicateCode">
-        <property name="min" value="10"/>
+<module name='Checker'>
+
+    <module name='TreeWalker'>
+
+        <property name='tabWidth' value='4' />
+
+        <!-- Block Checks -->
+
+        <module name='EmptyBlock' />
+        <module name='LeftCurly' />
+        <module name='NeedBraces' />
+        <module name='RightCurly' />
+        <module name='AvoidNestedBlocks' />
+
+        <!-- Miscellaneous -->
+        <module name='Indentation' />
+
+        <!--- Naming Conventions -->
+
+        <module name='ClassTypeParameterName' />
+        <module name='ConstantName' />
+        <module name='LocalFinalVariableName' />
+        <module name='LocalVariableName' />
+        <module name='MemberName' />
+        <module name='MethodName' />
+        <module name='MethodTypeParameterName' />
+
+        <module name='PackageName'>
+            <property name='format' value='^[a-z]+(\.[a-z][a-z0-9]*)*$' />
+        </module>
+
+        <module name='ParameterName' />
+        <module name='StaticVariableName' />
+        <module name='TypeName' />
+
+        <!-- Whitespace -->
+
+        <module name='GenericWhitespace' />
+        <module name='EmptyForInitializerPad' />
+        <module name='EmptyForIteratorPad' />
+        <module name='MethodParamPad' />
+
+        <module name='NoWhitespaceAfter'>
+            <property name='tokens' value='BNOT, DEC, DOT, INC, LNOT, UNARY_MINUS, UNARY_PLUS' />
+        </module>
+
+        <module name='NoWhitespaceBefore'>
+            <property name='tokens' value='SEMI, DOT, POST_DEC, POST_INC' />
+            <property name='allowLineBreaks' value='true' />
+        </module>
+
+        <module name='OperatorWrap'>
+            <property name='option' value='eol' />
+        </module>
+
+        <module name='ParenPad' />
+        <module name='TypecastParenPad' />
+        <module name='WhitespaceAfter' />
+
+        <module name='WhitespaceAround'>
+            <property name='allowEmptyConstructors' value='true' />
+            <property name='allowEmptyMethods' value='true' />
+        </module>
+
     </module>
-    <module name="TreeWalker">
-        <module name="RedundantImport"/>
-        <module name="UnusedImports"/>
-        <module name="LineLength"/>
-        <module name="MethodLength"/>
-        <module name="GenericWhitespace"/>
-        <module name="WhitespaceAround"/>
-        <module name="RedundantModifier"/>
-        <module name="EmptyBlock"/>
-        <module name="EmptyStatement"/>
-        <module name="SimplifyBooleanExpression"/>
-        <module name="SimplifyBooleanReturn"/>
-        <module name="TodoComment"/>
-        <module name="StringLiteralEquality"/>
-        <module name="Indentation"/>
-        <module name="OneStatementPerLine"/>
-        <module name="CyclomaticComplexity"/>
-        <module name="OuterTypeFilename"/>
-        <module name="NestedForDepth">
-            <property name="max" value="2"/>
-        </module>
-        <module name="NestedIfDepth">
-            <property name="max" value="2"/>
-        </module>
-        <module name="HiddenField">
-            <property name="ignoreConstructorParameter" value="true"/>
-        </module>
-        <module name="JavadocMethod">
-            <property name="allowMissingPropertyJavadoc" value="true"/>
-        </module>
-        <module name="VisibilityModifier">
-            <property name="protectedAllowed" value="true"/>
-        </module>
+
+    <!-- File Length -->
+
+    <module name='FileLength'>
+        <property name='max' value='1000' />
     </module>
+
 </module>
 ```
 Lisätään aiemmin luotuun _nbactions.xml_-tiedostoon vielä yksi valikko jolla voi ajaa Checkstylen helposti suoraan Netbeansistä, lisää tiedostoon alla oleva pätkä. Tallenna ja aja projektille **Clean and Build**. Nyt pitäisi Custom valikossa näkyä Coberturan ja Pitin lisäksi Checkstyle.
