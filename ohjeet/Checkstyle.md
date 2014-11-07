@@ -113,14 +113,17 @@ Avaa tiedosto ja korvaa tiedoston sisältö tällä:
 Lisätään aiemmin luotuun _nbactions.xml_-tiedostoon vielä yksi valikko jolla voi ajaa Checkstylen helposti suoraan Netbeansistä, lisää tiedostoon alla oleva pätkä. Tallenna ja aja projektille **Clean and Build**. Nyt pitäisi Custom valikossa näkyä Coberturan ja Pitin lisäksi Checkstyle.
 
 ```xml
-<action>
-  <actionName>CUSTOM-checkstyle</actionName>
-  <displayName>Checkstyle</displayName>
-  <goals>
-    <goal>jxr:jxr</goal>
-    <goal>checkstyle:checkstyle -Dcheckstyle.config.location=checkstyle.xml</goal>
-  </goals>
-</action>
+<actions> 
+  ...
+  <action>
+    <actionName>CUSTOM-checkstyle</actionName>
+    <displayName>Checkstyle</displayName>
+    <goals>
+      <goal>jxr:jxr</goal>
+      <goal>checkstyle:checkstyle -Dcheckstyle.config.location=checkstyle.xml</goal>
+    </goals>
+  </action>
+</actions>
 ```
 
 Vaihtoehtoisesti Checkstylen voi ajaa komentoriviltä komennolla <code>mvn jxr:jxr checkstyle:checkstyle -Dcheckstyle.config.location=checkstyle.xml</code> Sekä komentoriviltä ajettaessa että suoraan Netbeansistä _checkstyle.xml_ on aiemmin luodun konfiguraatiotiedoston nimi ja komennot olettavat että tiedosto sijaitsee projektihakemiston juuressa.
