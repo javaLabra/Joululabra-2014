@@ -5,7 +5,7 @@ Koodin testauksen lisäksi koodin luettavuuden ylläpitäminen on tärkeää, t�
 >Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. It automates the process of checking Java code to spare humans of this boring (but important) task. This makes it ideal for projects that want to enforce a coding standard.
 
 ### Pisteytys
-Checkstyleä käyttämällä voi saada maksimissaan 2 pistettä. Yhden pisteen saa kun konfiguroi Checkstylen oikein ja lopullisessa palautteessa on Cobertura ja Pit raporttien lisäksi ajettuna Checkstyle raportti. Toisen pisteen Checkstylestä on mahdollista saada jos kirjoittaa koodia konfiguraatiotiedostossa asetettujen standardien mukaan ja täten Checkstyle virheitä ei tule.
+Checkstyleä käyttämällä voi saada maksimissaan 2 pistettä. Yhden pisteen saa kun konfiguroi Checkstylen oikein ja lopullisessa palautteessa on Cobertura ja Pit raporttien lisäksi ajettuna Checkstyle raportti. Toisen pisteen Checkstylestä on mahdollista saada jos kirjoittaa koodia konfiguraatiotiedostossa asetettujen standardien mukaan ja täten Checkstyle virheitä ei tule 10 enempää.
 
 ### Checkstylen tuominen projektiin
 
