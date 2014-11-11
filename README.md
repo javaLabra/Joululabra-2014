@@ -11,6 +11,7 @@
 * [Kertausta](ohjeet/Kertausta.md)
 * [Maven, Cobertura ja PIT](ohjeet/Maven-Cobertura-ja-PIT.md)
 * [JavaDoc](ohjeet/JavaDoc.md)
+* [Checkstyle](ohjeet/Checkstyle.md)
 
 **Ohjaajat:**
 * Nikke Kostiainen (NikG)
