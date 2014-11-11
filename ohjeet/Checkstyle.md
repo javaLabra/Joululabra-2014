@@ -13,8 +13,9 @@ Checkstyle on helppo tuoda Maven-projektiin, lisätään se vain **pom.xml** tie
 
 Lisää **pom.xml** tiedostoon
 ```
-<reporting>
+<build>
   <plugins>
+  ...
     <plugin>
       <groupId>org.apache.maven.plugins</groupId>
       <artifactId>maven-checkstyle-plugin</artifactId>
@@ -26,7 +27,7 @@ Lisää **pom.xml** tiedostoon
       <version>2.4</version>
     </plugin>
   </plugins>
-</reporting>
+</build>
 ```
 
 Checkstylen tarkkailemien virheiden joukko on konfiguroitavissa erillisen konfiguraatiotiedoston avulla, luo nyt tätä varten projektiin uusi **XML**-tiedosto _checkstyle.xml_.
