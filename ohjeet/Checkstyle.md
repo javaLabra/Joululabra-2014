@@ -1,15 +1,15 @@
-# Checkstyle - Vapaaehtoien lisäpisteitä jaossa
+# Checkstyle - Vapaaehtoinen; lisäpisteitä jaossa
 
-Koodin testauksen lisäksi koodin luettavuuden ylläpitäminen on tärkeää, tässä hyvänä apuvälineenä on staattisen analyysin työkalu checkstyle ks. [http://checkstyle.sourceforge.net/](http://checkstyle.sourceforge.net/)
+Koodin testauksen lisäksi koodin luettavuuden ylläpitäminen on tärkeää. Tässä hyvänä apuvälineenä on staattisen analyysin työkalu checkstyle ks. [http://checkstyle.sourceforge.net/](http://checkstyle.sourceforge.net/)
 
 >Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. It automates the process of checking Java code to spare humans of this boring (but important) task. This makes it ideal for projects that want to enforce a coding standard.
 
 ### Pisteytys
-Checkstyleä käyttämällä voi saada maksimissaan 2 pistettä. Yhden pisteen saa kun konfiguroi Checkstylen oikein ja lopullisessa palautteessa on Cobertura ja Pit raporttien lisäksi ajettuna Checkstyle raportti. Toisen pisteen Checkstylestä on mahdollista saada jos kirjoittaa koodia konfiguraatiotiedostossa asetettujen standardien mukaan ja täten Checkstyle virheitä ei tule 10 enempää.
+Checkstyleä käyttämällä voi saada maksimissaan 2 pistettä. Yhden pisteen saa kun konfiguroi Checkstylen oikein ja lopullisessa palautteessa on Cobertura- ja PIT-raporttien lisäksi generoituna Checkstyle-raportti. Toisen pisteen Checkstylestä on mahdollista saada jos kirjoittaa koodia konfiguraatiotiedostossa asetettujen standardien mukaan ja täten Checkstyle virheitä ei tule 10 enempää.
 
 ### Checkstylen tuominen projektiin
 
-Checkstyle on helppo tuoda Maven-projektiin, lisätään se vain **pom.xml** tiedostoon. Jotta Checkstyle raporteista pääsee helposti tarkastelemaan lähdekoodissa olevaa ongelma kohtaa on hyvä käyttää Checkstyleä yhdessä [jxr:n](http://maven.apache.org/plugins/maven-jxr-plugin/) kanssa. 
+Checkstyle on helppo tuoda Maven-projektiin, lisätään se vain **pom.xml** tiedostoon. Jotta Checkstylen raporteista pääsisi helposti tarkastelemaan lähdekoodissa olevaa ongelmakohtaa, on hyvä käyttää Checkstyleä yhdessä [jxr:n](http://maven.apache.org/plugins/maven-jxr-plugin/) kanssa. 
 
 Lisää **pom.xml** tiedostoon
 ```
@@ -111,7 +111,7 @@ Avaa tiedosto ja korvaa tiedoston sisältö tällä:
 
 </module>
 ```
-Lisätään aiemmin luotuun _nbactions.xml_-tiedostoon vielä yksi valikko jolla voi ajaa Checkstylen helposti suoraan Netbeansistä, lisää tiedostoon alla oleva pätkä. Tallenna ja aja projektille **Clean and Build**. Nyt pitäisi Custom valikossa näkyä Coberturan ja Pitin lisäksi Checkstyle.
+Lisätään aiemmin luotuun _nbactions.xml_-tiedostoon vielä yksi valikko, jolla voi ajaa Checkstylen helposti suoraan Netbeansistä. Lisää tiedostoon alla oleva pätkä. Tallenna ja aja projektille **Clean and Build**. Nyt pitäisi Custom valikossa näkyä Coberturan ja Pitin lisäksi Checkstyle.
 
 ```xml
 <actions> 
@@ -129,6 +129,6 @@ Lisätään aiemmin luotuun _nbactions.xml_-tiedostoon vielä yksi valikko jolla
 
 Vaihtoehtoisesti Checkstylen voi ajaa komentoriviltä komennolla <code>mvn jxr:jxr checkstyle:checkstyle -Dcheckstyle.config.location=checkstyle.xml</code> Sekä komentoriviltä ajettaessa että suoraan Netbeansistä _checkstyle.xml_ on aiemmin luodun konfiguraatiotiedoston nimi ja komennot olettavat että tiedosto sijaitsee projektihakemiston juuressa.
 
-Generoituasi Checkstyle raportin löydät sen polusta **/target/site/checkstyle.html**.
+Generoituasi Checkstyle-raportin löydät sen polusta **/target/site/checkstyle.html**.
 
-Lisää Checkstylestä voi lukea ohtun sivuilta [ohtun checkstyle osio](https://github.com/mluukkai/ohtu2014/blob/master/web/laskari3.md)
+Lisää Checkstylestä voi lukea ohtun sivuilta [ohtun checkstyle-osio](https://github.com/mluukkai/ohtu2014/blob/master/web/laskari3.md)
