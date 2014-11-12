@@ -1,6 +1,6 @@
 # Checkstyle - Vapaaehtoinen; lisäpisteitä jaossa
 
-Koodin testauksen lisäksi koodin luettavuuden ylläpitäminen on tärkeää. Tässä hyvänä apuvälineenä on staattisen analyysin työkalu checkstyle ks. [http://checkstyle.sourceforge.net/](http://checkstyle.sourceforge.net/)
+Koodin testauksen lisäksi koodin luettavuuden ylläpitäminen on tärkeää. Tässä hyvänä apuvälineenä on staattisen analyysin työkalu Checkstyle. ks. [http://checkstyle.sourceforge.net/](http://checkstyle.sourceforge.net/)
 
 >Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. It automates the process of checking Java code to spare humans of this boring (but important) task. This makes it ideal for projects that want to enforce a coding standard.
 
@@ -131,4 +131,4 @@ Vaihtoehtoisesti Checkstylen voi ajaa komentoriviltä komennolla <code>mvn jxr:j
 
 Generoituasi Checkstyle-raportin löydät sen polusta **/target/site/checkstyle.html**.
 
-Lisää Checkstylestä voi lukea ohtun sivuilta [ohtun checkstyle-osio](https://github.com/mluukkai/ohtu2014/blob/master/web/laskari3.md)
+Lisää Checkstylestä voi lukea [ohtun sivuilta](https://github.com/mluukkai/ohtu2014/blob/master/web/laskari3.md)
