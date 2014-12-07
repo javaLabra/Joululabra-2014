@@ -1,14 +1,14 @@
 % Ohjelmoinnin harjoitustyö a.k.a. Javalabra
-% Nikke Kostiainen, Joel Järvinen
-% 27.10.2014
+% Tero Huomo, Joel Järvinen
+% 19.12.2014
 
 # Ohjaajat
 
 - Ohjaajat
-    - Nikke Kostiainen -- **NikG** -- nikke.kostiainen at helsinki.fi
-    - Joel Järvinen -- **puny** -- joel.jarvinen at helsinki.fi
+    - Tero Huomo -- **Arcane** -- tahuomo at cs.helsinki.fi
+    - Joel Järvinen -- **puny** -- joel.jarvinen at cs.helsinki.fi
 - Yhteyttä sähköpostilla tai irkissä
-- Irkkikanava #javalabra2014 @ IRCnet
+- Irkkikanava #joululabra @ IRCnet
 - Kurssisivu <http://javalabra.github.io/Javalabra2014-2>
 
 # Mistä kyse?
@@ -32,7 +32,7 @@
 # Kurssin sisältö
 
 - Toteutuskielenä **Java**
-- Kolmannen osapuolen kirjastoja **saa käyttää**
+- Kolmannen osapuolen kirjastoja **saa käyttää**, muista tarkistaa lisenssi.
 - Käytössä **Git**-versionhallinta sekä **GitHub**
 - Harjoitustyö on **yksilötyö**
 - Ohjelman **on toimittava** laitoksen tietokoneilla
@@ -48,7 +48,7 @@
     - Laivanupotus
     - Olutmuistio
     - Fysiikkasimulaattori
-    - Lisää esimerkkiaiheita kurssisivulla
+    - Lisää [esimerkkiaiheita](Esimerkkejä-aihesta.md) kurssisivulla
 - Pelit suosittuja, reaaliaikaiset pelit vähän haasteellisempia mutta toteutettavissa
 - **Valitse ennen kaikkea jokin itseäsi kiinnostava aihe!**
 
@@ -67,29 +67,29 @@
     - Tuttuja *Ohjelmistotekniikan menetelmät* -kurssilta
 - Kurssisivulla ohjeet työkalujen konffaamiseen
 
+# Checkstyle
+
+- Kurssilla edellytetään että kirjoitettu koodi on laadukasta ja helppolukuista tätä varten kurssilla käytetään kursseilta *Ohjelmoinnin perusteet* ja *Ohjelmoinnin Jatkokurssi* oleva Checkstyle.
+
 # Kurssin kulku
 
-- Jokaisen viikon perjantaina **deadline** kello 23:59
+- Deadlinet löydät kurssin etusivulta.
     - Deadlinestä annetaan 0-2 pistettä kunkin deadlinen tehtävien mukaisesti
-    - Ensimmäinen deadline **tämän viikon perjantaina!**
+    - Ensimmäinen deadline **jo tänään!**
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen perusteella
     - Ohjaajat antavat palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa tulla pyytämään pajasta
 
-# Kurssin kulku
-
-- Kurssin aikana tarjolla **ohjausta** eli pajaa joka viikko
-    - Alustava viikoittainen aikataulu:
-    	- **ma 15-17**
-    	- **pe 14-16**
+- Kurssin aikana tarjolla **ohjausta** eli pajaa
+    - Aikataulusta päätetään aloitusluennolla, valitettavasti ohjaajista riippumattomasta syystä ohjausta ei saada järjestää klo 16:00 jälkeen.
     - Luokassa **B221** (toisen kerroksen pajaluokka)
     - Vapaaehtoista
     - **Paras väylä saada apua ja palautetta ohjaajilta**
 
 # Kurssin kulku
 
-- Viikoilla 3 ja 6 **koodikatselmointi**
+- Kaksi **koodikatselmointia**
     - Jokainen opiskelija saa toisen opiskelijan projektin katselmoitavaksi
     - Opiskelijat kirjoittavat palautetta toisen projektista
     - Tarkoitus oppia lukemaan ja ymmärtämään toisten koodia
@@ -115,8 +115,8 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Muistakaa -- ensimmäinen deadline tämän viikon perjantaina klo 23:59
-- Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Javalabra2014-2>
+- Muistakaa -- ensimmäinen deadline tänään
+- Kaikki tarvittava löytyy kurssisivulta: <http://javalabra.github.io/Joululabra-2014>
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tai pyytämään apua
-	 - On suositeltavaa aloittaa ensimmäisen viikon tehtävien tekeminen nyt
+	 - On suositeltavaa tehdä ensimmäisen deadlinen tehtävät jo täällä.

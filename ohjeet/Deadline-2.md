@@ -10,6 +10,8 @@
 
 * Koodin tulisi alusta lähtien olla siistiä ja laajennettavaa
 * [Koodin laatuvaatimukset](Koodin-laatuvaatimukset.md)
+* Tuo projektiisi checkstyle, kts. [checkstyle ohjeet](Checkstyle.md)
+* Lisää checkstyle raportti dokumentaatio kansioon
 
 ### JUnit-yksikkötestit:
 

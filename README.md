@@ -14,39 +14,37 @@
 * [Checkstyle](ohjeet/Checkstyle.md)
 
 **Ohjaajat:**
-* Nikke Kostiainen (NikG)
+* Tero Huomo (Arcane)
 * Joel Järvinen (puny)
 
 Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 **Kurssin IRC-kanava**: 
-\#Javalabra2014 @ IRCnet
+\#joululabra @ IRCnet
 
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta mieluiten ohjauksissa tai IRCissä tai lähetä sähköpostia.
 
 ### Uutisia
 
-##### Demo tilaisuudet 
-* Ensimmäinen demo on **torstaina 11.12. klo 18 eteenpäin** Luokassa *B221*
-* Toinen demo on **perjantaina 12.12 klo 14 eteenpäin** Luokassa *B221*
+#### Aloitusluento
 
-Perjantaina 12.12. paja pidetään normaalista poiketen jo ennen demotilaisuutta klo 12-14 luokassa *B221*.
+Aloitusluento pidetään perjantaina 19.12. klo 14:15 alkaen luokassa **B221**, aloitusluennon jälkeen järjestetään heti ohjausta klo 16:00 asti. 
 
 ### Palaute työstäsi
 
 * Saat palautetta projektisi edistymisestä labtoolin kautta [http://tktl-labtool.herokuapp.com/mypage](http://tktl-labtool.herokuapp.com/mypage)
-* Ohjauksissa **on hyvä käydä** viikottain keskustelemassa edistymisestä ja kuulemassa ohjaajien palautetta
+* Ohjauksissa **on hyvä käydä** keskustelemassa edistymisestä ja kuulemassa ohjaajien palautetta
 
-### Viikkoaikataulu
+### Aikataulu
 
-| klo | ma | ti | ke | to | pe | la | su |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 10-12 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-| 12-14 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-| 14-16 |  paja(klo 15-17)  |  -  |  -  |  -  |  paja  |  -  |  -  |
-| 16-18 |  paja(klo 15-17)  |  -  |  -  |  -  |  -  |  -  |  -  |
-| 16-20 |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-| 23:59 |  -  |  -  |  -  |  -  | deadline |  -  | koodikatselmointien dl (viikot 3 ja 6)|
+| vko | ma  | ti  | ke  | to  | pe  | 
+| --- | --- | --- | --- | --- | --- | 
+| 51  |  -  |  -  |  -  |  -  |  Deadline 1  |  
+| 52  |  Deadline 2  |  -  |  -  |  -  |  -  |  
+| 1   |  Deadline 3  |  Katselmointi  |  -  |  -  |  Deadline 4  |  
+| 2   |  -  |  -  |  Deadline 5  |  Katselmointi 2. Demotilaisuus  |  Deadline 6 + palautus. Demotilaisuus  |  -  |  -  |
 
 Pajat pidetään luokassa **B221**, ellei toisin ilmoiteta.
-Alustavat paja-ajat näkyvät yllä.
+
+**HUOM**
+Pajaohjausta ei järjestetä 24.12. - 28.12., 31.12., 1.1.2015, 6.1.2015.

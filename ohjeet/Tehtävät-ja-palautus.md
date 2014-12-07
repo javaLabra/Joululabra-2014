@@ -13,40 +13,36 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Käy tasaisin ajoin keskustelemassa edistymisestäsi, saat samalla palautteen!
 * **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
 
-### Deadline I, perjantai 31.10.
+### Deadline I, perjantai 19.12.
 * [Deadlinen 1 vaatimukset](Deadline-1.md)
 
-### Deadline II, perjantai 7.11.
+### Deadline II, maanantai 22.12.
 * [Deadlinen 2 vaatimukset](Deadline-2.md)
 
-### Deadline III, perjantai 14.11.
+### Deadline III, maanantai 29.12.
 * [Deadlinen 3 vaatimukset](Deadline-3.md)
 
-### Deadline Katselmointi I, sunnuntai 16.11.
+### Deadline Katselmointi I, tiistai 30.12.
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
-### Deadline IV, perjantai 21.11.
+### Deadline IV, perjantai 2.1.2015
 * [Deadlinen 4 vaatimukset](Deadline-4.md)
 
-### Deadline V, perjantai 28.11.
+### Deadline V, keskiviikko 7.1.2015
 * [Deadlinen 5 vaatimukset](Deadline-5.md)
 
-### Deadline VI, perjantai 5.12.
-* [Deadlinen 6 vaatimukset](Deadline-6.md)
-
-### Deadline Katselmointi II, sunnuntai 7.12.
+### Deadline Katselmointi II, torstai 8.1.2015
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
 ### Demot
 
-* Demojen ajankohdat päätetään demoviikon lähestyessä.
+* Demot järjestetään 8. - 9.1.2015
 * Demotilaisuuteen on pakko osallistua.
 * Omaa työtä esitetään 5-10 min. 
 * Ohjelma ei tarvitse olla demottaessa valmis tai bugiton
 * Vastataan myös ohjaajien tai muiden ryhmäläisten esittämiin kysymyksiin.
 * Testaa, että ohjelmasi toimii laitoksen koneilla ennen demoa. Demokoneelle on ladattu kaikkien kurssilaisten GitHub-repositoriot hieman ennen demotilaisuuden alkua. Voit vaihtoehtoisesti tuoda oman läppärisi ja demota siltä.
 
-### Deadline VII, palautus, perjantai 12.12. klo 23:59
-
-* [Lopullisen palautuksen vaatimukset](Deadline-7-lopullinen-palautus.md)
+### Deadline VI ja lopullinen palautus, perjantai 9.1.2015
+* [Deadlinen 6 vaatimukset](Deadline-6.md)
 * [Muistilista lopullista palautusta varten](Muistilista.md)

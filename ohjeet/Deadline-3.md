@@ -7,6 +7,7 @@
 ### Noudata Clean code -periaatteita
 
 * Jos koodia on syntynyt useita luokkia, kannattaa jakaa koodi loogisiin paketteihin laatuvaatimusten mukaisesti
+* Poista viime viikon checkstyle-raportti ja generoi uusi sen tilalle.
 
 ### JUnit-yksikkötestit
 
@@ -23,3 +24,10 @@
 * Merkitse kytkentärajoitteet
 * Lähtökohdaksi voi ottaa ohjelmakoodinsa
 * [Matin Ilmoitusjärjestelmän kaavio tarkentunut](https://raw.github.com/javaLabra/Javalabra2013-1/master/luokkakaavio2.jpg)
+
+### Aloita JavaDoc
+* Tee jokaiselle luokalle luokan kuvaus
+* Aloita kuvaamaan julkisia (public) metodeja
+* Katso [ohjeet JavaDocin käyttöön](JavaDoc.md) tai http://en.wikipedia.org/wiki/Javadoc
+* JavaDocia ei tarvitse kirjoittaa testeille tai get/set -metodeille, jotka eivät tee mitään ylimääräistä
+* JavaDocista ei vielä tässä vaiheessa tarvitse luoda HTML-versiota

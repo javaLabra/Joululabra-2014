@@ -1,11 +1,8 @@
-# Checkstyle - Vapaaehtoinen; lisäpisteitä jaossa
+# Checkstyle
 
-Koodin testauksen lisäksi koodin luettavuuden ylläpitäminen on tärkeää. Tässä hyvänä apuvälineenä on staattisen analyysin työkalu Checkstyle. ks. [http://checkstyle.sourceforge.net/](http://checkstyle.sourceforge.net/)
+Koodin testauksen lisäksi koodin luettavuuden ylläpitäminen on tärkeää. Tässä hyvänä apuvälineenä on staattisen analyysin työkalu Checkstyle. ks. [http://checkstyle.sourceforge.net/](http://checkstyle.sourceforge.net/). Kurssilla käytetään *Ohjelmoinnin Perusteista* ja *Ohjelmoinnin Jatkokurssista* tuttua checkstyleä, [koodin laatuvaatimuksien](Koodin-laatuvaatimukset.md) seurannassa.
 
 >Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. It automates the process of checking Java code to spare humans of this boring (but important) task. This makes it ideal for projects that want to enforce a coding standard.
-
-### Pisteytys
-Checkstyleä käyttämällä voi saada maksimissaan 2 pistettä. Yhden pisteen saa kun konfiguroi Checkstylen oikein ja lopullisessa palautteessa on Cobertura- ja PIT-raporttien lisäksi generoituna Checkstyle-raportti. Toisen pisteen Checkstylestä on mahdollista saada jos kirjoittaa koodia konfiguraatiotiedostossa asetettujen standardien mukaan niin, ettei Checkstyle raportoi enempää kuin kymmenen (10) virhettä.
 
 ### Checkstylen tuominen projektiin
 

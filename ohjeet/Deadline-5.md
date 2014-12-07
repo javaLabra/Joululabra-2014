@@ -5,6 +5,13 @@
 
 ### Noudata Clean code -periaatteita
 * Yritä noudattaa koodin laatuvaatimuksia jo mahdollisimman hyvin
+* Poista viime viikon checkstyle-raportti ja generoi uusi sen tilalle.
+
+### Lisenssi
+* Valitse projektillesi jokin Open Source lisenssi, tai laadi sellainen itse. Tietoa avoimesta lähdekoodista löydät esimerkiksi [coss.fi](http://coss.fi/avoimuus/avoin-lahdekoodi/)
+* Apua valintaan saa [http://choosealicense.com/](http://choosealicense.com/).
+* Jos käytät ulkoisia kirjastoja, muista tarkistaa niiden lisensseistä onko siellä vaatimus käytettävästä lisenssistä.
+* Jos et halua lisenssöidä projektiasi avoimen lähdekoodin lisenssillä ole yhteydessä ohjaajiin.
 
 ### JUnit-yksikkötestit
 * Tee uusi pit-raportti ja poista vanha.
@@ -18,15 +25,13 @@
   * Get- ja Set- metodit voi jättää kuvaamatta, jos ne eivät tee mitään erikoista
 * Testeille ei kirjoiteta javadocia
 
-### Piirrä sekvenssikaavioita
-
-* Muista: .png tai .jpg
-* Luonnostele 2-3 tärkeintä sekvenssikaaviota käyttötapauksista
-* Tärkeimmät käyttötapaukset löydät aihemäärittelystäsi
-* Ota kuvataksesi riittävän pieniä käyttötapauksia
-* Älä yritä samassa kaaviossa esittää liian montaa asiaa, esimerkiksi ehdollisuutta
-* Epäonnistunut ja onnistunut kirjautuminen voisivat olla omat kaavionsa, tai yhden kaavion kaksi osaa
-  * Sekvenssikaavio alkaa tunnusten syöttämisellä, kirjautuminen hylätään, virheilmoitus, tunnukset syötetään uudestaan, kirjautuminen onnistuu
-
 ### Muu dokumentaatio
 * Aihemäärittely ja luokkakaaviot ajantasalla
+
+### Ohjelman laajentaminen
+* Mikäli koet, että ohjelmasi on bugiton, hyvin dokumentoitu ja testattu, voit lisätä siihen uusia ominaisuuksia
+* Kysy ehdotuksia ohjaajilta!
+
+### Sekvenssikaaviot
+* Tee vielä 1-2 sekvenssikaaviota lisää
+* Päivitä vanhoja, jos tarpeen
