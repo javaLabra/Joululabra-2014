@@ -37,14 +37,16 @@ Aloitusluento pidetään perjantaina 19.12. klo 14:15 alkaen luokassa **B221**, 
 
 ### Aikataulu
 
+Pajaa tarjolla alla ilmoitettuina päivinä kello 12-14.
+Pajat pidetään luokassa **B221**, ellei toisin ilmoiteta.
+
 | vko | ma  | ti  | ke  | to  | pe  | 
 | --- | --- | --- | --- | --- | --- | 
 | 51  |  -  |  -  |  -  |  -  | DL1 **Paja**|  
 | 52  | DL2 **Paja**| **Paja**|  -  |  -  |  -  |  
 | 1   | DL3 **Paja**| Katselmointi **Paja**|  -  |  -  | DL4 **Paja**|  
-| 2   | **Paja**| **Paja**|  DL5 **Paja**|  Katselmointi 2. Demotilaisuus **Paja**| DL6 + palautus. Demotilaisuus **Paja**|
+| 2   | **Paja**| - |  DL5 **Paja**|  Katselmointi 2. Demotilaisuus **Paja**| DL6 + palautus. Demotilaisuus **Paja**|
 
-Pajat pidetään luokassa **B221**, ellei toisin ilmoiteta.
 
 **HUOM**
 Pajaohjausta ei järjestetä 24.12. - 28.12., 31.12., 1.1.2015, 6.1.2015.
