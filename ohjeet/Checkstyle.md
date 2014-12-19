@@ -85,10 +85,6 @@ Avaa tiedosto ja korvaa tiedoston sisältö tällä:
             <property name='allowLineBreaks' value='true' />
         </module>
 
-        <module name='OperatorWrap'>
-            <property name='option' value='eol' />
-        </module>
-
         <module name='ParenPad' />
         <module name='TypecastParenPad' />
         <module name='WhitespaceAfter' />

@@ -59,6 +59,7 @@
 * Kokeile .jar -tiedoston toimivuus. Komentoriviltä jar-tiedosto voidaan ajaa komennolla `java -jar paketti.jar`.
    * Jos ohjelma ei toimi, tarkista erityisesti ohjelmasi käyttämät tiedostopolut - ne ovat suhteellisia .jar-tiedoston sijaintiin
 * Kokeile ajaa ohjelmaasi myös jollain muulla kuin omalla koneellasi. Esimerkiksi natiivikirjastojen kanssa paketointi saattaa vaatia ylimääräistä säätöä - näissä tapauksissa esimerkiksi kirjaston dokumentaatio saattaa kertoa sopivimman paketointitavan.
+* Lisää .jar tiedosto lopulliseen palautukseen projektin juurikansioon. Voit tarkistaa projektin kansiorakenteen [muistilistasta](Muistilista.md).
 
 ### Kirjoita käyttöohjeet
 * Ajattele käyttäjää, joka ei ole käyttänyt ohjelmaasi

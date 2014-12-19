@@ -35,3 +35,6 @@
 ### Sekvenssikaaviot
 * Tee vielä 1-2 sekvenssikaaviota lisää
 * Päivitä vanhoja, jos tarpeen
+
+### Muuta
+* Kannattaa jo tässä vaiheessa kokeilla että oman projektin saa paketoitua .jariksi, ohjeet tähän löytyy [Deadline-6:n](Deadline-6.md) kalvoista.

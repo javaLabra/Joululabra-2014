@@ -5,7 +5,7 @@
 # Ohjaajat
 
 - Ohjaajat
-    - Tero Huomo -- **Arcane** -- tahuomo at cs.helsinki.fi
+    - Tero Huomo -- **Arcane** -- tero.huomo at cs.helsinki.fi
     - Joel Järvinen -- **puny** -- joel.jarvinen at cs.helsinki.fi
 - Yhteyttä sähköpostilla tai irkissä
 - Irkkikanava #joululabra @ IRCnet
@@ -69,7 +69,7 @@
 
 # Checkstyle
 
-- Kurssilla edellytetään että kirjoitettu koodi on laadukasta ja helppolukuista tätä varten kurssilla käytetään kursseilta *Ohjelmoinnin perusteet* ja *Ohjelmoinnin Jatkokurssi* oleva Checkstyle.
+- Kurssilla edellytetään että kirjoitettu koodi on laadukasta ja helppolukuista tätä varten kurssilla käytetään kursseilla *Ohjelmoinnin perusteet* ja *Ohjelmoinnin Jatkokurssi* käytössä olevaa Checkstyleä.
 
 # Kurssin kulku
 
@@ -82,7 +82,7 @@
     - Ohjaajat antavat palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa tulla pyytämään pajasta
 
 - Kurssin aikana tarjolla **ohjausta** eli pajaa
-    - Aikataulusta päätetään aloitusluennolla, valitettavasti ohjaajista riippumattomasta syystä ohjausta ei saada järjestää klo 16:00 jälkeen.
+    - Aikataulusta päätetään aloitusluennolla, valitettavasti laitoksen aukioloajoista johtuen ohjausta ei voida järjestää klo 16:00 jälkeen.
     - Luokassa **B221** (toisen kerroksen pajaluokka)
     - Vapaaehtoista
     - **Paras väylä saada apua ja palautetta ohjaajilta**
@@ -93,7 +93,7 @@
     - Jokainen opiskelija saa toisen opiskelijan projektin katselmoitavaksi
     - Opiskelijat kirjoittavat palautetta toisen projektista
     - Tarkoitus oppia lukemaan ja ymmärtämään toisten koodia
-    - Pisteitä tarjolla!
+    - Katselmoinneista saa 0-1.5 pistettä/katselmointi. 
 
 # Kurssin kulku
 
