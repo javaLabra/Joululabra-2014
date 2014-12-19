@@ -39,10 +39,10 @@ Aloitusluento pidetään perjantaina 19.12. klo 14:15 alkaen luokassa **B221**, 
 
 | vko | ma  | ti  | ke  | to  | pe  | 
 | --- | --- | --- | --- | --- | --- | 
-| 51  |  -  |  -  |  -  |  -  |  Deadline 1  *Paja*|  
-| 52  |  Deadline 2  *Paja*|  -  *Paja*|  -  |  -  |  -  |  
-| 1   |  Deadline 3  *Paja*|  Katselmointi  *Paja*|  -  |  -  |  Deadline 4  *Paja*|  
-| 2   |  -  *Paja*|  -  *Paja*|  Deadline 5  *Paja*|  Katselmointi 2. Demotilaisuus  *Paja*|  Deadline 6 + palautus. Demotilaisuus  *Paja*|
+| 51  |  -  |  -  |  -  |  -  | DL1 **Paja**|  
+| 52  | DL2 **Paja**| **Paja**|  -  |  -  |  -  |  
+| 1   | DL3 **Paja**| Katselmointi **Paja**|  -  |  -  | DL4 **Paja**|  
+| 2   | **Paja**| **Paja**|  DL5 **Paja**|  Katselmointi 2. Demotilaisuus **Paja**| DL6 + palautus. Demotilaisuus **Paja**|
 
 Pajat pidetään luokassa **B221**, ellei toisin ilmoiteta.
 
