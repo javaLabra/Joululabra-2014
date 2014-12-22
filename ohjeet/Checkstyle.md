@@ -17,6 +17,9 @@ Lisää **pom.xml** tiedostoon
       <groupId>org.apache.maven.plugins</groupId>
       <artifactId>maven-checkstyle-plugin</artifactId>
       <version>2.13</version>
+      <configuration>
+        <configLocation>checkstyle.xml</configLocation>
+      </configuration>
     </plugin>
     <plugin>
       <groupId>org.apache.maven.plugins</groupId>
@@ -114,7 +117,7 @@ Lisätään aiemmin luotuun _nbactions.xml_-tiedostoon vielä yksi valikko, joll
     <displayName>Checkstyle</displayName>
     <goals>
       <goal>jxr:jxr</goal>
-      <goal>checkstyle:checkstyle -Dcheckstyle.config.location=checkstyle.xml</goal>
+      <goal>checkstyle:checkstyle</goal>
     </goals>
   </action>
 </actions>
