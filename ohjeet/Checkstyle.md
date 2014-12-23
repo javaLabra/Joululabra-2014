@@ -123,7 +123,7 @@ Lisätään aiemmin luotuun _nbactions.xml_-tiedostoon vielä yksi valikko, joll
 </actions>
 ```
 
-Vaihtoehtoisesti Checkstylen voi ajaa komentoriviltä komennolla <code>mvn jxr:jxr checkstyle:checkstyle -Dcheckstyle.config.location=checkstyle.xml</code> Sekä komentoriviltä ajettaessa että suoraan Netbeansistä _checkstyle.xml_ on aiemmin luodun konfiguraatiotiedoston nimi ja komennot olettavat että tiedosto sijaitsee projektihakemiston juuressa.
+Vaihtoehtoisesti Checkstylen voi ajaa komentoriviltä komennolla <code>mvn jxr:jxr checkstyle:checkstyle</code> Sekä komentoriviltä ajettaessa että suoraan Netbeansistä _checkstyle.xml_ on aiemmin luodun konfiguraatiotiedoston nimi ja komennot olettavat että tiedosto sijaitsee projektihakemiston juuressa.
 
 Generoituasi Checkstyle-raportin löydät sen polusta **/target/site/checkstyle.html**.
 
