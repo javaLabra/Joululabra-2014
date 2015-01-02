@@ -93,7 +93,9 @@ Käytä kaikessa dokumentoinnissa omaa harkintakykyäsi pituuden ja laajuuden ka
 
 Github-repositoriosi **Releases** välilehdellä näkyy vähintään yksi julkaisu, sisältönä:
 * jar-tiedosto
+
 Tai
+
 * pakattu (zip tai rar) kansio, jossa jar-tiedosto ja ohjelmasi tarvitsemat teksti-/kuva-/musiikkitiedostot
 
 ### Lopputulos:
