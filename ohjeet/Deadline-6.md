@@ -59,7 +59,13 @@
 * Kokeile .jar -tiedoston toimivuus. Komentoriviltä jar-tiedosto voidaan ajaa komennolla `java -jar paketti.jar`.
    * Jos ohjelma ei toimi, tarkista erityisesti ohjelmasi käyttämät tiedostopolut - ne ovat suhteellisia .jar-tiedoston sijaintiin
 * Kokeile ajaa ohjelmaasi myös jollain muulla kuin omalla koneellasi. Esimerkiksi natiivikirjastojen kanssa paketointi saattaa vaatia ylimääräistä säätöä - näissä tapauksissa esimerkiksi kirjaston dokumentaatio saattaa kertoa sopivimman paketointitavan.
-* Lisää .jar tiedosto lopulliseen palautukseen projektin juurikansioon. Voit tarkistaa projektin kansiorakenteen [muistilistasta](Muistilista.md).
+* Tee ohjelmastasi julkaisu:
+  * Avaa github-repositoriosi selaimessa ja valitse välilehti **Releases**
+  * Valitse nappi **Draft a Release**
+  * Kirjoita tag-versioksi esim. *v1.0* ja targetiksi *master*
+  * Valitse julkaisulle otsikko, esimerkiksi *Palautus* tai ohjelmaprojektisi nimi
+  * Lisää julkaisun binääritiedostoihin luomasi jar-tiedosto
+  * Jos ohjelmasi tarvitsee teksti-/kuva-/äänitiedostoja, joudut ensin luomaan uuden kansion, jonne lisäät jar-tiedoston ja muut tiedostot ohjelmasi vaatimassa kansiorakenteessa. Pakkaa kansio esim. rar- tai zip-muotoon ja lisää pakattu kansio julkaisuun.
 
 ### Kirjoita käyttöohjeet
 * Ajattele käyttäjää, joka ei ole käyttänyt ohjelmaasi
