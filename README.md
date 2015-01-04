@@ -26,9 +26,8 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ### Uutisia
 
-#### Aloitusluento
-
-Aloitusluento pidetään perjantaina 19.12. klo 14:15 alkaen luokassa **B221**, aloitusluennon jälkeen järjestetään heti ohjausta klo 16:00 asti. 
+#### Demotilaisuus
+Demotilaisuus pidetään torstaina 8.1.2015 alkaen klo 12:15 luokassa **B221**. Demotilaisuus on kaikille pakollinen ellei ole hyvää syytä jonka takia ei pääse paikalle. Tällöin tulee olla yhteydessä ohjaajiin ja käydä demoamassa oma projekti viimeisen viikon aikana pajassa. 
 
 ### Palaute työstäsi
 
@@ -45,7 +44,7 @@ Pajat pidetään luokassa **B221**, ellei toisin ilmoiteta.
 | 51  |  -  |  -  |  -  |  -  | DL1 **Paja**|  
 | 52  | DL2 **Paja**| **Paja**|  -  |  -  |  -  |  
 | 1   | DL3 **Paja**| Katselmointi **Paja**|  -  |  -  | DL4 **Paja**|  
-| 2   | **Paja**| - |  DL5 **Paja**|  Katselmointi 2. Demotilaisuus **Paja**| DL6 + palautus. Demotilaisuus **Paja**|
+| 2   | **Paja**| - |  DL5 **Paja**|  Katselmointi 2. **Demotilaisuus & Paja**| DL6 + palautus. **Paja**|
 
 
 **HUOM**
